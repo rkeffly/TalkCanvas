@@ -1,0 +1,1335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://nichecanvas.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://nichecanvas.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://nichecanvas.com/collections/abstract-art.atom"/>
+  <title>NicheCanvas</title>
+  <updated>2020-07-01T13:27:37-04:00</updated>
+  <author>
+    <name>NicheCanvas</name>
+  </author>
+  <entry>
+    <id>https://nichecanvas.com/products/4635792375880</id>
+    <published>2020-07-01T13:27:37-04:00</published>
+    <updated>2020-07-01T13:27:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/hurricane-chiara-magni"/>
+    <title>Hurricane - Chiara Magni</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/6809a7b9-ec7e-484c-8659-b75aeda4d1dc_c88dc3c3-591b-44ce-9b11-be97aa48d40b.jpg?v=1593653825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/hurricane-chiara-magni">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add a pop of color to your space. The ﻿Hurricane - Chiara Magni﻿ canvas art print is part of our fan-favorite Abstract Collection. Every piece of art has a story, and ﻿Hurricane - Chiara Magni﻿ is open to interpretation. Hang a piece of hand-picked abstract art on your walls to create a modern focal point. Bright contrast and vibrant colors make every brush stroke stand out with distinctive style.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abstract</s:tag>
+    <s:tag>acme5p</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>black and green</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>oil painting</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4635792375880</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>TD57J6LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4635792375880</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>JHVJWNTQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4623930359880</id>
+    <published>2020-06-10T20:16:07-04:00</published>
+    <updated>2020-06-10T20:16:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/abstract-pink"/>
+    <title>Abstract Pink</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/6809a7b9-ec7e-484c-8659-b75aeda4d1dc_5b51257b-8e95-46fa-b57b-f033d7e312f0.jpg?v=1592052998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/abstract-pink">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add a pop of color to your space. The ﻿Abstract Pink﻿ canvas art print is part of our fan-favorite Abstract Collection. Every piece of art has a story, and ﻿Abstract Pink﻿ is open to interpretation. Hang a piece of hand-picked abstract art on your walls to create a modern focal point. Bright contrast and vibrant colors make every brush stroke stand out with distinctive style.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abstract</s:tag>
+    <s:tag>acme5p</s:tag>
+    <s:tag>newarrival</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>pouring</s:tag>
+    <s:tag>purple</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4623930359880</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>V0WP0RED</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4623930359880</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>X9J9T6SK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4511834800200</id>
+    <published>2020-03-26T15:32:58-04:00</published>
+    <updated>2020-03-26T15:32:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/abstract-color-splash"/>
+    <title>Abstract Color Splash</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/c98240dd-6935-4ee6-878c-77eeb6bd7e4b.jpg?v=1592052989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add a pop of color to your space. The ﻿Abstract Color Splash﻿ canvas art print is part of our fan-favorite Abstract Collection. Every piece of art has a story, and ﻿Abstract Color Splash﻿ is open to interpretation. Hang a piece of hand-picked abstract art on your walls to create a modern focal point. Bright contrast and vibrant colors make every brush stroke stand out with distinctive style.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abstract</s:tag>
+    <s:tag>acme3horizontal</s:tag>
+    <s:tag>blue and pink</s:tag>
+    <s:tag>newarrival</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4511834800200</id>
+      <title>canvas / huge</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>LB34PPXI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4511834079304</id>
+    <published>2020-03-26T15:30:58-04:00</published>
+    <updated>2020-03-26T15:30:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/abstract-beach"/>
+    <title>Abstract Beach</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/1a328328-d484-4b74-afda-b904d0bcdf94.jpg?v=1592052988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add a pop of color to your space. The ﻿Abstract Beach﻿ canvas art print is part of our fan-favorite Abstract Collection. Every piece of art has a story, and ﻿Abstract Beach﻿ is open to interpretation. Hang a piece of hand-picked abstract art on your walls to create a modern focal point. Bright contrast and vibrant colors make every brush stroke stand out with distinctive style.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abstract</s:tag>
+    <s:tag>acme3horizontal</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>multicolor</s:tag>
+    <s:tag>multicolors</s:tag>
+    <s:tag>newarrival</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4511834079304</id>
+      <title>canvas / huge</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>6L14A4XR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4511727976520</id>
+    <published>2020-03-26T13:07:08-04:00</published>
+    <updated>2020-03-26T13:07:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/pink-yellow-red-brush-strokes"/>
+    <title>Pink Yellow &amp; Red Brush Strokes</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/3d4ec9b3-0287-4085-9e54-a52b9e5639f0.jpg?v=1592054377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add a pop of color to your space. The ﻿Pink Yellow &amp; Red Brush Strokes﻿ canvas art print is part of our fan-favorite Abstract Collection. Every piece of art has a story, and ﻿Pink Yellow &amp; Red Brush Strokes﻿ is open to interpretation. Hang a piece of hand-picked abstract art on your walls to create a modern focal point. Bright contrast and vibrant colors make every brush stroke stand out with distinctive style.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abstract</s:tag>
+    <s:tag>acme3horizontal</s:tag>
+    <s:tag>newarrival</s:tag>
+    <s:tag>oil painting</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4511727976520</id>
+      <title>canvas / huge</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>5TL8X50T</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4511718670408</id>
+    <published>2020-03-26T12:48:39-04:00</published>
+    <updated>2020-03-26T12:48:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/red-blue-brush-strokes"/>
+    <title>Red &amp; Blue Brush Strokes</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/2debf3c1-642c-49d4-9950-6bd49920ab46.jpg?v=1592054390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add a pop of color to your space. The ﻿Red &amp; Blue Brush Strokes﻿ canvas art print is part of our fan-favorite Abstract Collection. Every piece of art has a story, and ﻿Red &amp; Blue Brush Strokes﻿ is open to interpretation. Hang a piece of hand-picked abstract art on your walls to create a modern focal point. Bright contrast and vibrant colors make every brush stroke stand out with distinctive style.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abstract</s:tag>
+    <s:tag>acme3horizontal</s:tag>
+    <s:tag>blue and red</s:tag>
+    <s:tag>newarrival</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4511718670408</id>
+      <title>canvas / huge</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>NNSPGERR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4491394908232</id>
+    <published>2020-03-06T18:07:53-05:00</published>
+    <updated>2020-03-06T18:07:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/abstract-violet"/>
+    <title>Abstract Violet</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/0a54fd47-08b7-468c-b24c-5dba7dba68fe.jpg?v=1592053001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add a pop of color to your space. The ﻿Abstract Violet﻿ canvas art print is part of our fan-favorite Abstract Collection. Every piece of art has a story, and ﻿Abstract Violet﻿ is open to interpretation. Hang a piece of hand-picked abstract art on your walls to create a modern focal point. Bright contrast and vibrant colors make every brush stroke stand out with distinctive style.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abstract</s:tag>
+    <s:tag>acme3horizontal</s:tag>
+    <s:tag>blue and purple</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4491394908232</id>
+      <title>canvas / huge</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>PNMOMML9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4490545070152</id>
+    <published>2020-03-05T19:04:29-05:00</published>
+    <updated>2020-03-05T19:04:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/art-clock"/>
+    <title>Art Clock</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/cfe652c1-201d-475d-b832-396fc6e3cfb8.jpg?v=1592053092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/art-clock">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add a pop of color to your space. The ﻿Art Clock﻿ canvas art print is part of our fan-favorite Abstract Collection. Every piece of art has a story, and ﻿Art Clock﻿ is open to interpretation. Hang a piece of hand-picked abstract art on your walls to create a modern focal point. Bright contrast and vibrant colors make every brush stroke stand out with distinctive style.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abstract</s:tag>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>clock</s:tag>
+    <s:tag>multicolor</s:tag>
+    <s:tag>multicolors</s:tag>
+    <s:tag>Psychedelic</s:tag>
+    <s:tag>Shop Psychedelic Art</s:tag>
+    <s:tag>time</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490545070152</id>
+      <title>canvas / small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>V8N1LQP6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490545070152</id>
+      <title>floating frame / small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>0KGP2LZI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490545070152</id>
+      <title>canvas / medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>TS1GMMMZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490545070152</id>
+      <title>floating frame / medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>JFPV5DY7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490545070152</id>
+      <title>canvas / large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>HO187947</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490545070152</id>
+      <title>floating frame / large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>XNTFTLCT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490545070152</id>
+      <title>canvas / huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>YFOMQAS9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490545070152</id>
+      <title>floating frame / huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>5VWW3HC0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4476698820680</id>
+    <published>2020-02-27T22:52:20-05:00</published>
+    <updated>2020-02-27T22:52:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/color-blend"/>
+    <title>Color Blend</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/b54be55d-f8f2-4466-a844-73439cb8633d.jpg?v=1592088775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/color-blend">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add a pop of color to your space. The ﻿Color Blend﻿ canvas art print is part of our fan-favorite Abstract Collection. Every piece of art has a story, and ﻿Color Blend﻿ is open to interpretation. Hang a piece of hand-picked abstract art on your walls to create a modern focal point. Bright contrast and vibrant colors make every brush stroke stand out with distinctive style.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abstract</s:tag>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>multicolor</s:tag>
+    <s:tag>multicolors</s:tag>
+    <s:tag>pouring</s:tag>
+    <s:tag>trending</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4476698820680</id>
+      <title>canvas / small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>RBJEMQOV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4476698820680</id>
+      <title>canvas / medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>UON36L4G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4476698820680</id>
+      <title>canvas / large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>8PLMXJVQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4476698820680</id>
+      <title>canvas / huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>8WX2099R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4476698820680</id>
+      <title>floating frame / small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>6ILBTJ08</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4476698820680</id>
+      <title>floating frame / medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>ZY7PZWYA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4476698820680</id>
+      <title>floating frame / large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>JZDC7IYK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4476698820680</id>
+      <title>floating frame / huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>KR1JOXH7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4414643732552</id>
+    <published>2019-12-17T12:22:33-05:00</published>
+    <updated>2019-12-17T12:22:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/colorful-creation"/>
+    <title>Colorful Creation</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/feb62a82-caa4-4280-b897-011f8e1eaed8_9b724191-c0a7-4044-8afb-b72d40e3dba1.jpg?v=1594911998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/colorful-creation">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add a pop of color to your space. The ﻿Colorful Creation﻿ canvas art print is part of our fan-favorite Abstract Collection. Every piece of art has a story, and ﻿Colorful Creation﻿ is open to interpretation. Hang a piece of hand-picked abstract art on your walls to create a modern focal point. Bright contrast and vibrant colors make every brush stroke stand out with distinctive style.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abstract</s:tag>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>multicolor</s:tag>
+    <s:tag>multicolors</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414643732552</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>XB871JO1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414643732552</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>YS5S53NY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414643732552</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>FIG9K38X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414643732552</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>T7AEX2TK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414643732552</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>BKGB4IS4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414643732552</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>AAIKO8UM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414643732552</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>VNF06CDS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414643732552</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>4C6KEBWM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4409497714760</id>
+    <published>2019-12-12T13:27:06-05:00</published>
+    <updated>2019-12-12T13:27:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/fantastic-frames"/>
+    <title>Fantastic Frames</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/074af4c4-237f-4625-a315-c800114f4480_0592201d-d0bd-4601-91fa-e1d3cbc70635.jpg?v=1594911961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/fantastic-frames">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add a pop of color to your space. The ﻿Fantastic Frames﻿ canvas art print is part of our fan-favorite Abstract Collection. Every piece of art has a story, and ﻿Fantastic Frames﻿ is open to interpretation. Hang a piece of hand-picked abstract art on your walls to create a modern focal point. Bright contrast and vibrant colors make every brush stroke stand out with distinctive style.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abstract</s:tag>
+    <s:tag>acme5p</s:tag>
+    <s:tag>multicolor</s:tag>
+    <s:tag>multicolors</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>pouring</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4409497714760</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>2KF4ANS2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4409497714760</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>4DGZQ9S9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4405345615944</id>
+    <published>2019-12-10T00:16:12-05:00</published>
+    <updated>2019-12-10T00:16:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/blue-and-red-swirl"/>
+    <title>Blue and Red Swirl</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/074af4c4-237f-4625-a315-c800114f4480_6a9fc262-0846-48a4-aa2f-5177b4998298.jpg?v=1592053315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/blue-and-red-swirl">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add a pop of color to your space. The ﻿Blue and Red Swirl﻿ canvas art print is part of our fan-favorite Abstract Collection. Every piece of art has a story, and ﻿Blue and Red Swirl﻿ is open to interpretation. Hang a piece of hand-picked abstract art on your walls to create a modern focal point. Bright contrast and vibrant colors make every brush stroke stand out with distinctive style.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abstract</s:tag>
+    <s:tag>acme5p</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>pouring</s:tag>
+    <s:tag>red</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4405345615944</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>TZ0PLOSN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4405345615944</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>919PPX21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4405343060040</id>
+    <published>2019-12-10T00:12:50-05:00</published>
+    <updated>2019-12-10T00:12:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/soundwaves"/>
+    <title>Soundwaves</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/6809a7b9-ec7e-484c-8659-b75aeda4d1dc_e359aa23-a51f-4c83-93a9-242bc94d7c67.jpg?v=1592054603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/soundwaves">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add a pop of color to your space. The ﻿Soundwaves﻿ canvas art print is part of our fan-favorite Abstract Collection. Every piece of art has a story, and ﻿Soundwaves﻿ is open to interpretation. Hang a piece of hand-picked abstract art on your walls to create a modern focal point. Bright contrast and vibrant colors make every brush stroke stand out with distinctive style.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abstract</s:tag>
+    <s:tag>acme5p</s:tag>
+    <s:tag>blue and red</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>multicolor</s:tag>
+    <s:tag>multicolors</s:tag>
+    <s:tag>music</s:tag>
+    <s:tag>musical instrument</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4405343060040</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>SS8KMPKX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4405343060040</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>0ZNR21ZG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4405315141704</id>
+    <published>2019-12-09T23:47:16-05:00</published>
+    <updated>2019-12-09T23:47:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/blue-brush-strokes"/>
+    <title>Blue Brush Strokes</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/074af4c4-237f-4625-a315-c800114f4480_f7761a90-51a7-4036-b7d6-6aa903fa03a2.jpg?v=1592053321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/blue-brush-strokes">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add a pop of color to your space. The ﻿Blue Brush Strokes﻿ canvas art print is part of our fan-favorite Abstract Collection. Every piece of art has a story, and ﻿Blue Brush Strokes﻿ is open to interpretation. Hang a piece of hand-picked abstract art on your walls to create a modern focal point. Bright contrast and vibrant colors make every brush stroke stand out with distinctive style.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abstract</s:tag>
+    <s:tag>acme5p</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>oil painting</s:tag>
+    <s:tag>pouring</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4405315141704</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>6OSCWAA9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4405315141704</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>TCL7CTFN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4405310586952</id>
+    <published>2019-12-09T23:43:18-05:00</published>
+    <updated>2019-12-09T23:43:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/pink-energy"/>
+    <title>Pink Energy</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/6809a7b9-ec7e-484c-8659-b75aeda4d1dc_88a8707a-9c7a-412c-ab95-e58264684fe1.jpg?v=1592054367"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/pink-energy">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add a pop of color to your space. The ﻿Pink Energy﻿ canvas art print is part of our fan-favorite Abstract Collection. Every piece of art has a story, and ﻿Pink Energy﻿ is open to interpretation. Hang a piece of hand-picked abstract art on your walls to create a modern focal point. Bright contrast and vibrant colors make every brush stroke stand out with distinctive style.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abstract</s:tag>
+    <s:tag>acme5p</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>pouring</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4405310586952</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>SVZK7GRH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4405310586952</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>B9I93WLZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4405305999432</id>
+    <published>2019-12-09T23:38:19-05:00</published>
+    <updated>2019-12-09T23:38:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/blue-motion"/>
+    <title>Blue Motion</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/6809a7b9-ec7e-484c-8659-b75aeda4d1dc_3e0f954c-f1eb-47a3-9436-b9be7cabe890.jpg?v=1592053340"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/blue-motion">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add a pop of color to your space. The ﻿Blue Motion﻿ canvas art print is part of our fan-favorite Abstract Collection. Every piece of art has a story, and ﻿Blue Motion﻿ is open to interpretation. Hang a piece of hand-picked abstract art on your walls to create a modern focal point. Bright contrast and vibrant colors make every brush stroke stand out with distinctive style.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abstract</s:tag>
+    <s:tag>acme5p</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>wave</s:tag>
+    <s:tag>waves</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4405305999432</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>K25U263N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4405305999432</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>CU7XLRRG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4405281652808</id>
+    <published>2019-12-09T23:15:20-05:00</published>
+    <updated>2019-12-09T23:15:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/ocean-gold"/>
+    <title>Ocean Gold</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/6809a7b9-ec7e-484c-8659-b75aeda4d1dc_c391b557-c6b4-4f30-8eaf-55eb483d1b62.jpg?v=1592054275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/ocean-gold">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add a pop of color to your space. The ﻿Ocean Gold﻿ canvas art print is part of our fan-favorite Abstract Collection. Every piece of art has a story, and ﻿Ocean Gold﻿ is open to interpretation. Hang a piece of hand-picked abstract art on your walls to create a modern focal point. Bright contrast and vibrant colors make every brush stroke stand out with distinctive style.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abstract</s:tag>
+    <s:tag>acme5p</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>blue and gold</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4405281652808</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>1QWVTR1X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4405281652808</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>338WGXTA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4405278605384</id>
+    <published>2019-12-09T23:11:51-05:00</published>
+    <updated>2019-12-09T23:11:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/wisdom-mandala"/>
+    <title>Wisdom Mandala</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/074af4c4-237f-4625-a315-c800114f4480_b4394a3a-0924-4d54-b39a-7b65cb48fb35.jpg?v=1592053748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/wisdom-mandala">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add a pop of color to your space. The ﻿Wisdom Mandala﻿ canvas art print is part of our fan-favorite Abstract Collection. Every piece of art has a story, and ﻿Wisdom Mandala﻿ is open to interpretation. Hang a piece of hand-picked abstract art on your walls to create a modern focal point. Bright contrast and vibrant colors make every brush stroke stand out with distinctive style.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abstract</s:tag>
+    <s:tag>acme5p</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>Psychedelic</s:tag>
+    <s:tag>Shop Psychedelic Art</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4405278605384</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>FQKL8LUT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4405278605384</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>79WWEDFT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4405275689032</id>
+    <published>2019-12-09T23:08:47-05:00</published>
+    <updated>2019-12-09T23:08:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/color-metaphor"/>
+    <title>Color Metaphor</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/6809a7b9-ec7e-484c-8659-b75aeda4d1dc_4f4e9e09-a852-457a-a1da-11b6b290df35.jpg?v=1592056072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/color-metaphor">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add a pop of color to your space. The ﻿Color Metaphor﻿ canvas art print is part of our fan-favorite Abstract Collection. Every piece of art has a story, and ﻿Color Metaphor﻿ is open to interpretation. Hang a piece of hand-picked abstract art on your walls to create a modern focal point. Bright contrast and vibrant colors make every brush stroke stand out with distinctive style.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abstract</s:tag>
+    <s:tag>acme5p</s:tag>
+    <s:tag>multicolor</s:tag>
+    <s:tag>multicolors</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4405275689032</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>U62LCK04</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4405275689032</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>LZ4V2S3G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4405217558600</id>
+    <published>2019-12-09T22:28:53-05:00</published>
+    <updated>2019-12-09T22:28:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/temporary-form"/>
+    <title>Temporary Form</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/6809a7b9-ec7e-484c-8659-b75aeda4d1dc_dd2931bc-9374-48b4-b44a-07d722b20923.jpg?v=1592053404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/temporary-form">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add a pop of color to your space. The ﻿Temporary Form﻿ canvas art print is part of our fan-favorite Abstract Collection. Every piece of art has a story, and ﻿Temporary Form﻿ is open to interpretation. Hang a piece of hand-picked abstract art on your walls to create a modern focal point. Bright contrast and vibrant colors make every brush stroke stand out with distinctive style.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abstract</s:tag>
+    <s:tag>acme5p</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>color</s:tag>
+    <s:tag>colors</s:tag>
+    <s:tag>pouring</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4405217558600</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>2HIHTTDV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4405217558600</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>QL3VCDIW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4405164113992</id>
+    <published>2019-12-09T22:02:04-05:00</published>
+    <updated>2019-12-09T22:02:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/sams-color-palette"/>
+    <title>Sam&apos;s Color Palette</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/074af4c4-237f-4625-a315-c800114f4480_ecfc1a2a-b663-4cca-bb59-25758f97da42.jpg?v=1592054498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/sams-color-palette">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add a pop of color to your space. The ﻿Sam's Color Palette﻿ canvas art print is part of our fan-favorite Abstract Collection. Every piece of art has a story, and ﻿Sam's Color Palette﻿ is open to interpretation. Hang a piece of hand-picked abstract art on your walls to create a modern focal point. Bright contrast and vibrant colors make every brush stroke stand out with distinctive style.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abstract</s:tag>
+    <s:tag>acme5p</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>kids room</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4405164113992</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>9NEBS99I</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4405164113992</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>0E44KKNH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4405133508680</id>
+    <published>2019-12-09T21:44:23-05:00</published>
+    <updated>2019-12-09T21:44:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/distorted-ice"/>
+    <title>Distorted Ice</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/6809a7b9-ec7e-484c-8659-b75aeda4d1dc_9d8fcbff-e45f-47d1-9f52-435ea7c863fc.jpg?v=1592056190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/distorted-ice">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add a pop of color to your space. The ﻿Distorted Ice﻿ canvas art print is part of our fan-favorite Abstract Collection. Every piece of art has a story, and ﻿Distorted Ice﻿ is open to interpretation. Hang a piece of hand-picked abstract art on your walls to create a modern focal point. Bright contrast and vibrant colors make every brush stroke stand out with distinctive style.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abstract</s:tag>
+    <s:tag>acme5p</s:tag>
+    <s:tag>beige</s:tag>
+    <s:tag>blue</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4405133508680</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>M2ZU25LN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4405133508680</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>KTC6M4VI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4405129510984</id>
+    <published>2019-12-09T21:41:07-05:00</published>
+    <updated>2019-12-09T21:41:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/red-blue-ink-in-water"/>
+    <title>Red &amp; Blue Ink In Water</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/074af4c4-237f-4625-a315-c800114f4480_944bf41a-0298-4c88-ab78-05e9ef6e9028.jpg?v=1592054391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/red-blue-ink-in-water">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add a pop of color to your space. The ﻿Red &amp; Blue Ink In Water﻿ canvas art print is part of our fan-favorite Abstract Collection. Every piece of art has a story, and ﻿Red &amp; Blue Ink In Water﻿ is open to interpretation. Hang a piece of hand-picked abstract art on your walls to create a modern focal point. Bright contrast and vibrant colors make every brush stroke stand out with distinctive style.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abstract</s:tag>
+    <s:tag>acme5p</s:tag>
+    <s:tag>blue and red</s:tag>
+    <s:tag>red and blue</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4405129510984</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>NXQU90GZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4405129510984</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>9GGP9EDL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4405114863688</id>
+    <published>2019-12-09T21:30:41-05:00</published>
+    <updated>2019-12-09T21:30:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/abstract-fragment"/>
+    <title>Abstract Fragment</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/074af4c4-237f-4625-a315-c800114f4480_11d04807-efb9-4286-abe3-63bad001fb03.jpg?v=1592052993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/abstract-fragment">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add a pop of color to your space. The ﻿Abstract Fragment﻿ canvas art print is part of our fan-favorite Abstract Collection. Every piece of art has a story, and ﻿Abstract Fragment﻿ is open to interpretation. Hang a piece of hand-picked abstract art on your walls to create a modern focal point. Bright contrast and vibrant colors make every brush stroke stand out with distinctive style.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abstract</s:tag>
+    <s:tag>acme5p</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4405114863688</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>XV00QUCR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4405114863688</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>Y73MK93H</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4401761222728</id>
+    <published>2019-12-07T22:01:05-05:00</published>
+    <updated>2019-12-07T22:01:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/multicolor-pouring"/>
+    <title>Multicolor Pouring</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/074af4c4-237f-4625-a315-c800114f4480_7ec927f8-6287-446f-b947-7dbd3524b4b6.jpg?v=1592054155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/multicolor-pouring">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add a pop of color to your space. The ﻿Multicolor Pouring﻿ canvas art print is part of our fan-favorite Abstract Collection. Every piece of art has a story, and ﻿Multicolor Pouring﻿ is open to interpretation. Hang a piece of hand-picked abstract art on your walls to create a modern focal point. Bright contrast and vibrant colors make every brush stroke stand out with distinctive style.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abstract</s:tag>
+    <s:tag>acme5p</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>pouring</s:tag>
+    <s:tag>red</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4401761222728</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>RI3VQIEJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4401761222728</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>UEAI0V11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,2188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://nichecanvas.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://nichecanvas.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://nichecanvas.com/collections/psychedelic-art.atom"/>
+  <title>NicheCanvas</title>
+  <updated>2020-07-17T15:30:08-04:00</updated>
+  <author>
+    <name>NicheCanvas</name>
+  </author>
+  <entry>
+    <id>https://nichecanvas.com/products/5235755745352</id>
+    <published>2020-07-17T15:30:08-04:00</published>
+    <updated>2020-07-17T15:30:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/otherness-ben-heine"/>
+    <title>Otherness - Ben Heine</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/37ac61f1-6de1-43a1-a2c6-15e7d34eada3_267341a5-b413-4001-b856-96a5c45a0155.jpg?v=1595025918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/otherness-ben-heine">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>BenHeine</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>Psychedelic</s:tag>
+    <s:tag>Shop Psychedelic Art</s:tag>
+    <s:tag>vendor_BenHeine</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235755745352</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>SYFTU9GU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235755745352</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>WTGE6WNJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235755745352</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>RAZM7OYR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235755745352</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>01WAMU3D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235755745352</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>MJ153EFS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235755745352</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>EEW5TC8D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235755745352</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>SJB5PQZ5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235755745352</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>GEEX1I68</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5235732512840</id>
+    <published>2020-07-17T13:36:58-04:00</published>
+    <updated>2020-07-17T13:36:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/lord-of-the-ringo-ben-heine"/>
+    <title>Lord of the Ringo - Ben Heine</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/6809a7b9-ec7e-484c-8659-b75aeda4d1dc_6758e8b7-ccaa-441e-a077-3346d5911a08.jpg?v=1595029148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/lord-of-the-ringo-ben-heine">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme5p</s:tag>
+    <s:tag>BenHeine</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>photography</s:tag>
+    <s:tag>Psychedelic</s:tag>
+    <s:tag>Shop Psychedelic Art</s:tag>
+    <s:tag>vendor_BenHeine</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235732512840</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>6A26XDD4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235732512840</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>BWSA7UJW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4638236868680</id>
+    <published>2020-07-07T12:18:16-04:00</published>
+    <updated>2020-07-07T12:18:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/la-vibes-cajuca"/>
+    <title>LA Vibes - Cajuca</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/37ac61f1-6de1-43a1-a2c6-15e7d34eada3_db8d0d79-3407-42bd-819e-6bfa72809359.jpg?v=1594148054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/la-vibes-cajuca">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>﻿LA Vibes - Cajuca﻿ was created by one of the industry leaders and best-selling artists in our Featured Artists Category. The picture offers an etherial view of the world with mesmerizing color and depth. Our artists create art with a unique perspective that is perfectly suited to canvas art prints and home décor.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>cajuca</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>los angeles</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>Psychedelic</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>Shop Psychedelic Art</s:tag>
+    <s:tag>vendor_Cajuca</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4638236868680</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>DOQJ25TU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4638236868680</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>O6MCKM1E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4638236868680</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>J6N7PSTV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4638236868680</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>300JOO40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4638236868680</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>2DNA60IZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4638236868680</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>YU6C7OZ8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4638236868680</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>GHC1IX2S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4638236868680</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>0VQHO98V</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4636653420616</id>
+    <published>2020-07-03T10:34:35-04:00</published>
+    <updated>2020-07-03T10:34:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/face-to-face"/>
+    <title>Face to Face</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/144905ee-9aba-4f25-b929-a8191a0ceace_f5211797-3731-46bb-bdea-9036df57e7bc.jpg?v=1593829597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/face-to-face">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>multicolor</s:tag>
+    <s:tag>multicolors</s:tag>
+    <s:tag>newarrival</s:tag>
+    <s:tag>Psychedelic</s:tag>
+    <s:tag>Shop Psychedelic Art</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636653420616</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>H0JSWZ4U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636653420616</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>UOO7T012</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636653420616</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>JMQ8S0PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636653420616</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>6SBKKT7L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636653420616</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>4N6JHFY4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636653420616</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>FF2WEBKY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636653420616</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>T329PKLL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636653420616</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>SSC5O1ZO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4636284584008</id>
+    <published>2020-07-02T13:44:35-04:00</published>
+    <updated>2020-07-02T13:44:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/sun7-cajuca"/>
+    <title>Sun7 - Cajuca</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/37ac61f1-6de1-43a1-a2c6-15e7d34eada3_e73dbca0-45ca-43ad-b146-81066c7edbaa.jpg?v=1593725617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/sun7-cajuca">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>﻿Sun7 - Cajuca﻿ was created by one of the industry leaders and best-selling artists in our Featured Artists Category. The picture offers an etherial view of the world with mesmerizing color and depth. Our artists create art with a unique perspective that is perfectly suited to canvas art prints and home décor.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>cajuca</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>light blue</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>Psychedelic</s:tag>
+    <s:tag>Shop Psychedelic Art</s:tag>
+    <s:tag>vendor_Cajuca</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636284584008</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>JWR5VU3F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636284584008</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>WFKC8Y82</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636284584008</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>QXL8N4WO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636284584008</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>2UC33HB0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636284584008</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>ACZX0SIA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636284584008</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>MG2KM867</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636284584008</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>8SGVFWGU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636284584008</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>95Y9UHDV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4636273672264</id>
+    <published>2020-07-02T13:09:17-04:00</published>
+    <updated>2020-07-02T13:09:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/colorful-journey-cajuca"/>
+    <title>Colorful Journey - Cajuca</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/37ac61f1-6de1-43a1-a2c6-15e7d34eada3_fd5a2cc9-a475-4416-8d7e-9805f2915275.jpg?v=1593724855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/colorful-journey-cajuca">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>﻿Colorful Journey - Cajuca﻿ was created by one of the industry leaders and best-selling artists in our Featured Artists Category. The picture offers an etherial view of the world with mesmerizing color and depth. Our artists create art with a unique perspective that is perfectly suited to canvas art prints and home décor.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>cajuca</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>Psychedelic</s:tag>
+    <s:tag>Shop Psychedelic Art</s:tag>
+    <s:tag>vendor_Cajuca</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636273672264</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>GJL5W6L2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636273672264</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>D16BENR6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636273672264</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>MP92115T</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636273672264</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>K1DNVQMS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636273672264</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>53ICJAR3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636273672264</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>20K05NC1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636273672264</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>1QVHAU1B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636273672264</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>5C2K5WT8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4636257714248</id>
+    <published>2020-07-02T12:09:40-04:00</published>
+    <updated>2020-07-02T12:09:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/aurora-desmun-cubic"/>
+    <title>Aurora - Desmun Cubic</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/22df67b8-8e29-4249-b124-61a8a2cf361a_e989d76c-cf20-41a7-a1f6-b88ea3dae509.jpg?v=1593724206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/aurora-desmun-cubic">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>﻿Aurora - Desmun Cubic﻿ was created by one of the industry leaders and best-selling artists in our Featured Artists Category. The picture offers an etherial view of the world with mesmerizing color and depth. Our artists create art with a unique perspective that is perfectly suited to canvas art prints and home décor.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>DesmunCubic</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>Psychedelic</s:tag>
+    <s:tag>Shop Psychedelic Art</s:tag>
+    <s:tag>vendor_DesmunCubic</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636257714248</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>3O5PREM7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636257714248</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>EHOKGANN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636257714248</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>KZ51X3Q4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636257714248</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>Y6TUT5GS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636257714248</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>IFTEGHAW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636257714248</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>A22I2XCB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636257714248</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>5G0S0B93</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636257714248</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>8GSUDHQV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4635813478472</id>
+    <published>2020-07-01T14:14:48-04:00</published>
+    <updated>2020-07-01T14:14:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/like-a-butterfly-chiara-magni"/>
+    <title>Like a Butterfly - Chiara Magni</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/37ac61f1-6de1-43a1-a2c6-15e7d34eada3_c6c0c4fc-b9de-48fd-b8aa-f54281df1e47.jpg?v=1593654440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/like-a-butterfly-chiara-magni">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>﻿Like a Butterfly - Chiara Magni﻿ was created by one of the industry leaders and best-selling artists in our Featured Artists Category. The picture offers an etherial view of the world with mesmerizing color and depth. Our artists create art with a unique perspective that is perfectly suited to canvas art prints and home décor.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>ChiaraMagni</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>oil painting</s:tag>
+    <s:tag>Psychedelic</s:tag>
+    <s:tag>Shop Psychedelic Art</s:tag>
+    <s:tag>swimsuit</s:tag>
+    <s:tag>vendor_ChiaraMagni</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4635813478472</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>FE1KIWYM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4635813478472</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>IRZU87WI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4635813478472</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>TV3KY3SF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4635813478472</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>L4CVHTEE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4635813478472</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>0ZH55RFS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4635813478472</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>26V0JLCE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4635813478472</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>UJDGY1LR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4635813478472</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>2V7QJOHV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4635070234696</id>
+    <published>2020-06-30T14:52:33-04:00</published>
+    <updated>2020-06-30T14:52:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/breathe-chiara-magni"/>
+    <title>Breathe - Chiara Magni</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/37ac61f1-6de1-43a1-a2c6-15e7d34eada3_0049a072-7405-4207-b583-9fb99955f22f.jpg?v=1594912504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/breathe-chiara-magni">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>﻿Breathe - Chiara Magni﻿ was created by one of the industry leaders and best-selling artists in our Featured Artists Category. The picture offers an etherial view of the world with mesmerizing color and depth. Our artists create art with a unique perspective that is perfectly suited to canvas art prints and home décor.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>ChiaraMagni</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>female</s:tag>
+    <s:tag>female portrait</s:tag>
+    <s:tag>girl</s:tag>
+    <s:tag>light blue</s:tag>
+    <s:tag>oil painting</s:tag>
+    <s:tag>Psychedelic</s:tag>
+    <s:tag>Shop Psychedelic Art</s:tag>
+    <s:tag>vendor_ChiaraMagni</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4635070234696</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>7521QL4V</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4635070234696</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>JA1DAK70</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4635070234696</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>TED5JHZJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4635070234696</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>EU8AR41R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4635070234696</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>BUNOH5EX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4635070234696</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>OV4PKB0J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4635070234696</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>LPJAGQFV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4635070234696</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>U3K1FIOD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4623074951240</id>
+    <published>2020-06-09T15:29:52-04:00</published>
+    <updated>2020-06-09T15:29:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/pink-mandala"/>
+    <title>Pink Mandala</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/2921e153-8a80-4b1a-bd3e-c3c6a05cad06_a2953952-c479-4b07-84a4-f49fd1a60abf.jpg?v=1592054370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/pink-mandala">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>boho</s:tag>
+    <s:tag>mandala</s:tag>
+    <s:tag>newarrival</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>Psychedelic</s:tag>
+    <s:tag>shabby</s:tag>
+    <s:tag>Shop Psychedelic Art</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4623074951240</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>MJPPOQ6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4623074951240</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>FD69DI67</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4623074951240</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>QX6OP3DR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4623074951240</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>JWWEAG2H</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4623074951240</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>8RWWT8AM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4623074951240</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>V58UEP4M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4623074951240</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>JSP8Y7IB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4623074951240</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>1C01WIZA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4612777050184</id>
+    <published>2020-06-01T20:04:35-04:00</published>
+    <updated>2020-06-01T20:04:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/psychic-reader-brian-carson"/>
+    <title>Psychic Reader - Brian Carson</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/144905ee-9aba-4f25-b929-a8191a0ceace_08957f31-f559-4eaa-a038-b2338826a0e5.jpg?v=1592054339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/psychic-reader-brian-carson">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>﻿Psychic Reader - Brian Carson﻿ was created by one of the industry leaders and best-selling artists in our Featured Artists Category. The picture offers an etherial view of the world with mesmerizing color and depth. Our artists create art with a unique perspective that is perfectly suited to canvas art prints and home décor.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>black and white</s:tag>
+    <s:tag>BrianCarson</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>photography</s:tag>
+    <s:tag>Psychedelic</s:tag>
+    <s:tag>Shop Psychedelic Art</s:tag>
+    <s:tag>vendor_BrianCarson</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4612777050184</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>G2FF1L6Y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4612777050184</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>4ZHDQILH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4612777050184</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>4474WTJR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4612777050184</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>RG61B2IZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4612777050184</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>X04KC6Y0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4612777050184</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>WLRVQGRH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4612777050184</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>KO6TFL14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4612777050184</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>C4KSX97X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4605800611912</id>
+    <published>2020-05-27T16:57:25-04:00</published>
+    <updated>2020-05-27T16:57:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/time-consciousness"/>
+    <title>Time Consciousness</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/37ac61f1-6de1-43a1-a2c6-15e7d34eada3_334cb537-af91-4a98-87d7-3949dbde0a85.jpg?v=1592053520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/time-consciousness">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>Consciousness</s:tag>
+    <s:tag>mind</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>Psychedelic</s:tag>
+    <s:tag>Shop Psychedelic Art</s:tag>
+    <s:tag>time</s:tag>
+    <s:tag>Watercolor</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4605800611912</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>C153DL0G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4605800611912</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>TE6JTH8N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4605800611912</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>9J6YYZOQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4605800611912</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>1OGU70AD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4605800611912</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>17R9QOGE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4605800611912</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>HPONHB6O</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4605800611912</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>7Z0ZQ642</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4605800611912</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>OFP3WX35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4605796483144</id>
+    <published>2020-05-27T16:48:51-04:00</published>
+    <updated>2020-05-27T16:48:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/violin-mind"/>
+    <title>Violin Mind</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/d21cb8b6-069f-4f8e-b506-24f47ac3915a_1e258947-7ff8-4a6e-8210-ba83512c885b.jpg?v=1592053637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/violin-mind">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celebrate your love of music with a hand-picked piece of fine art. This high-impact wall art uses texture to tell a story and showcase the passion behind your musicmaking. The artist chose painting as the perfect medium to create an immersive view of the composition. ﻿Violin Mind﻿  is a popular design in our Musical Instruments Collection, and it’s guaranteed to enhance the melody of your life.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>cello</s:tag>
+    <s:tag>music</s:tag>
+    <s:tag>musical instrument</s:tag>
+    <s:tag>Psychedelic</s:tag>
+    <s:tag>Shop Psychedelic Art</s:tag>
+    <s:tag>viola</s:tag>
+    <s:tag>violin</s:tag>
+    <s:tag>Watercolor</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4605796483144</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>QAS91HRM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4605796483144</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>4ONR8XSM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4605796483144</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>70IBSY7K</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4605796483144</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>ZWWYJMXH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4605796483144</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>BDC2RWD8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4605796483144</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>H6LBP8OV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4605796483144</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>Q6KNWRUH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4605796483144</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>WNP4OW8R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4605790912584</id>
+    <published>2020-05-27T16:37:53-04:00</published>
+    <updated>2020-05-27T16:37:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/the-3rd-eye"/>
+    <title>The 3rd Eye</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/d21cb8b6-069f-4f8e-b506-24f47ac3915a_b8ab5cf7-3103-4800-80dc-47e29711c6e9.jpg?v=1592053413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/the-3rd-eye">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>eye</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>Psychedelic</s:tag>
+    <s:tag>Shop Psychedelic Art</s:tag>
+    <s:tag>Watercolor</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4605790912584</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>D9LEDXOH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4605790912584</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>40LYJ3AR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4605790912584</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>M23PHV00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4605790912584</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>LBBT2Y5L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4605790912584</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>573D2GG7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4605790912584</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>O9DSGCI4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4605790912584</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>MUWMWTTM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4605790912584</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>QCQGPZSO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4576445825096</id>
+    <published>2020-05-04T14:54:47-04:00</published>
+    <updated>2020-05-04T14:54:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/frozen-memories-johanjjf"/>
+    <title>Frozen Memories - Johanjjf</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/c7ac03e9-8a90-4faf-9dcd-2469ec13b1a3_91c0a0e7-7476-4756-8593-68fbb5c43f98.jpg?v=1592055487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/frozen-memories-johanjjf">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>﻿Frozen Memories - Johanjjf﻿ was created by one of the industry leaders and best-selling artists in our Featured Artists Category. The picture offers an etherial view of the world with mesmerizing color and depth. Our artists create art with a unique perspective that is perfectly suited to canvas art prints and home décor.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>Johanjjf</s:tag>
+    <s:tag>Psychedelic</s:tag>
+    <s:tag>Shop Psychedelic Art</s:tag>
+    <s:tag>vendor_johanjjf</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576445825096</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>F1B5XFTM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576445825096</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>RFT5UO0A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576445825096</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>0TLRAAF5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576445825096</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>AW4P8L9D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576445825096</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>N8B661QD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576445825096</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>N891TJLD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576445825096</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>V1FAJ4XM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576445825096</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>UXT640GL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4576454705224</id>
+    <published>2020-05-04T14:51:56-04:00</published>
+    <updated>2020-05-04T14:51:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/garden-rhapsody-singapore-johanjjf"/>
+    <title>Garden Rhapsody Singapore - Johanjjf</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/d21cb8b6-069f-4f8e-b506-24f47ac3915a_1283f588-dc4b-472d-9975-9d716bcbb362.jpg?v=1592055513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/garden-rhapsody-singapore-johanjjf">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>﻿Garden Rhapsody Singapore - Johanjjf﻿ was created by one of the industry leaders and best-selling artists in our Featured Artists Category. The picture offers an etherial view of the world with mesmerizing color and depth. Our artists create art with a unique perspective that is perfectly suited to canvas art prints and home décor.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>Johanjjf</s:tag>
+    <s:tag>newarrival</s:tag>
+    <s:tag>Psychedelic</s:tag>
+    <s:tag>Shop Psychedelic Art</s:tag>
+    <s:tag>singapore</s:tag>
+    <s:tag>vendor_johanjjf</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576454705224</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>J2ZIDF6X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576454705224</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>GEG39S1Q</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576454705224</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>SXXCZOMV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576454705224</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>W86N6J7Y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576454705224</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>ZT690X3F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576454705224</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>BE18N40C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576454705224</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>YCU1M4QJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576454705224</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>YO5M448E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4516543758408</id>
+    <published>2020-04-01T11:41:02-04:00</published>
+    <updated>2020-04-01T11:41:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/angel-demon"/>
+    <title>Angel &amp; Demon</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/8097c695-20a5-4e45-8d37-771e519b9a64.jpg?v=1592053075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">OUR PRINTS We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas. OUR STRETCHER BARS We use 1.25" thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall. OUR FLOATING FRAMES Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a perfect finish without chipping. Matte black finish.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme3vertical</s:tag>
+    <s:tag>angel</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>Business</s:tag>
+    <s:tag>demon</s:tag>
+    <s:tag>newarrival</s:tag>
+    <s:tag>Psychedelic</s:tag>
+    <s:tag>Shop Psychedelic Art</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4516543758408</id>
+      <title>canvas / huge</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>S0DNGX1P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4490545070152</id>
+    <published>2020-03-05T19:04:29-05:00</published>
+    <updated>2020-03-05T19:04:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/art-clock"/>
+    <title>Art Clock</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/cfe652c1-201d-475d-b832-396fc6e3cfb8.jpg?v=1592053092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/art-clock">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add a pop of color to your space. The ﻿Art Clock﻿ canvas art print is part of our fan-favorite Abstract Collection. Every piece of art has a story, and ﻿Art Clock﻿ is open to interpretation. Hang a piece of hand-picked abstract art on your walls to create a modern focal point. Bright contrast and vibrant colors make every brush stroke stand out with distinctive style.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abstract</s:tag>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>clock</s:tag>
+    <s:tag>multicolor</s:tag>
+    <s:tag>multicolors</s:tag>
+    <s:tag>Psychedelic</s:tag>
+    <s:tag>Shop Psychedelic Art</s:tag>
+    <s:tag>time</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490545070152</id>
+      <title>canvas / small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>V8N1LQP6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490545070152</id>
+      <title>floating frame / small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>0KGP2LZI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490545070152</id>
+      <title>canvas / medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>TS1GMMMZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490545070152</id>
+      <title>floating frame / medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>JFPV5DY7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490545070152</id>
+      <title>canvas / large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>HO187947</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490545070152</id>
+      <title>floating frame / large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>XNTFTLCT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490545070152</id>
+      <title>canvas / huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>YFOMQAS9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490545070152</id>
+      <title>floating frame / huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>5VWW3HC0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4490544119880</id>
+    <published>2020-03-05T19:01:42-05:00</published>
+    <updated>2020-03-05T19:01:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/business-time"/>
+    <title>Business Time</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/a00007f8-94aa-4a6c-874f-b9104f381894.jpg?v=1592055938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/business-time">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">OUR PRINTS We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas. OUR STRETCHER BARS We use 1.25" thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall. OUR FLOATING FRAMES Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a perfect finish without chipping. Matte black finish.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>black and blue</s:tag>
+    <s:tag>Business</s:tag>
+    <s:tag>clock</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>psychedelic</s:tag>
+    <s:tag>time</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490544119880</id>
+      <title>canvas / small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>DOXVUOVF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490544119880</id>
+      <title>floating frame / small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>2UGRSLMY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490544119880</id>
+      <title>canvas / medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>4A3W1BO6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490544119880</id>
+      <title>floating frame / medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>GT3PXWBQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490544119880</id>
+      <title>canvas / large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>48YKVJR4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490544119880</id>
+      <title>floating frame / large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>M4XD4F6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490544119880</id>
+      <title>canvas / huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>YGZUZJ75</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490544119880</id>
+      <title>floating frame / huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>EJWP7VOA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4490146152520</id>
+    <published>2020-03-05T10:37:43-05:00</published>
+    <updated>2020-03-05T10:37:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/time-physics"/>
+    <title>Time Physics</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/516e59a2-9e42-4453-abdd-2d8e203f6735.jpg?v=1592053521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">OUR PRINTS We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas. OUR STRETCHER BARS We use 1.25" thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall. OUR FLOATING FRAMES Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a perfect finish without chipping. Matte black finish.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme3horizontal</s:tag>
+    <s:tag>clock</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>Psychedelic</s:tag>
+    <s:tag>Shop Psychedelic Art</s:tag>
+    <s:tag>time</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490146152520</id>
+      <title>canvas / huge</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>TN3HE45T</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4490136289352</id>
+    <published>2020-03-05T10:21:38-05:00</published>
+    <updated>2020-03-05T10:21:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/spacetime-clock"/>
+    <title>Spacetime Clock</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/5f93cb5e-cbd7-4364-9605-fb8d2c6d998b.jpg?v=1592054616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/spacetime-clock">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">OUR PRINTS We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas. OUR STRETCHER BARS We use 1.25" thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall. OUR FLOATING FRAMES Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a perfect finish without chipping. Matte black finish.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>clock</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>Psychedelic</s:tag>
+    <s:tag>purple and yellow</s:tag>
+    <s:tag>Shop Psychedelic Art</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490136289352</id>
+      <title>canvas / small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>YQOBGP93</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490136289352</id>
+      <title>floating frame / small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>JEKP9U8M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490136289352</id>
+      <title>canvas / medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>TM3NVAOC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490136289352</id>
+      <title>floating frame / medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>ZSMPPIM2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490136289352</id>
+      <title>canvas / large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>RLV8T6CA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490136289352</id>
+      <title>floating frame / large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>APLRRZ70</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490136289352</id>
+      <title>canvas / huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>DF3FIDD8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490136289352</id>
+      <title>floating frame / huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>F8AWMOKB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4490096443464</id>
+    <published>2020-03-05T09:30:48-05:00</published>
+    <updated>2020-03-05T09:30:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/circles-of-time"/>
+    <title>Circles of Time</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/43b55283-7eee-4a79-99c8-056f7a428d10.jpg?v=1592056034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/circles-of-time">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">OUR PRINTS We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas. OUR STRETCHER BARS We use 1.25" thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall. OUR FLOATING FRAMES Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a perfect finish without chipping. Matte black finish.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>black and gold</s:tag>
+    <s:tag>clock</s:tag>
+    <s:tag>dial</s:tag>
+    <s:tag>Psychedelic</s:tag>
+    <s:tag>Shop Psychedelic Art</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490096443464</id>
+      <title>canvas / small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>VEVBPY1F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490096443464</id>
+      <title>floating frame / small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>6IDIQ852</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490096443464</id>
+      <title>canvas / medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>TWFPJ4QD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490096443464</id>
+      <title>floating frame / medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>ZGMF6CRB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490096443464</id>
+      <title>canvas / large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>0PMSWUMB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490096443464</id>
+      <title>floating frame / large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>32JNYZQ1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490096443464</id>
+      <title>canvas / huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>HJTTFQ1A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490096443464</id>
+      <title>floating frame / huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>O5PNIHBE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4487346847816</id>
+    <published>2020-03-02T11:41:04-05:00</published>
+    <updated>2020-03-02T11:41:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/psychedelic-clock"/>
+    <title>Psychedelic Clock</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/37ac61f1-6de1-43a1-a2c6-15e7d34eada3_8a9f7f79-f8cd-4017-9d62-d78897dfec0f.jpg?v=1592054419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/psychedelic-clock">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>art</s:tag>
+    <s:tag>beige</s:tag>
+    <s:tag>clock</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>Psychedelic</s:tag>
+    <s:tag>Shop Psychedelic Art</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4487346847816</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>68TDYLBU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4487346847816</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>LNK8UDAC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4487346847816</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>0W2HD6BQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4487346847816</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>E9U9FH3E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4487346847816</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>E3UZHA74</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4487346847816</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>EUEUKEVM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4487346847816</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>F2R027CV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4487346847816</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>88VYNAYJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4483045326920</id>
+    <published>2020-02-25T13:12:08-05:00</published>
+    <updated>2020-02-25T13:12:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/falling-dream"/>
+    <title>Falling Dream</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/40f15b41-bfa3-4876-b194-93eca52db0d1.jpg?v=1592055345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">OUR PRINTS We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas. OUR STRETCHER BARS We use 1.25" thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall. OUR FLOATING FRAMES Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a perfect finish without chipping. Matte black finish.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme3vertical</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>Psychedelic</s:tag>
+    <s:tag>Shop Psychedelic Art</s:tag>
+    <s:tag>umbrella</s:tag>
+    <s:tag>umbrellas</s:tag>
+    <s:tag>water</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4483045326920</id>
+      <title>canvas / huge</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>1X622ZQL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4481886027848</id>
+    <published>2020-02-24T14:56:54-05:00</published>
+    <updated>2020-02-24T14:56:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/big-dollar-sign"/>
+    <title>Big Dollar Sign</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/3340fd6f-006b-479c-84b2-342074fed22b.jpg?v=1592053208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">OUR PRINTS We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas. OUR STRETCHER BARS We use 1.25" thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall. OUR FLOATING FRAMES Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a perfect finish without chipping. Matte black finish.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme3vertical</s:tag>
+    <s:tag>Business</s:tag>
+    <s:tag>dollar</s:tag>
+    <s:tag>dollar sign</s:tag>
+    <s:tag>money</s:tag>
+    <s:tag>multicolor</s:tag>
+    <s:tag>multicolors</s:tag>
+    <s:tag>Psychedelic</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4481886027848</id>
+      <title>canvas / huge</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>685ZWRDM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

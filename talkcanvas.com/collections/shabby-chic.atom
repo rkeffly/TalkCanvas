@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://nichecanvas.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://nichecanvas.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://nichecanvas.com/collections/shabby-chic.atom"/>
+  <title>NicheCanvas</title>
+  <updated>2020-06-09T15:29:52-04:00</updated>
+  <author>
+    <name>NicheCanvas</name>
+  </author>
+  <entry>
+    <id>https://nichecanvas.com/products/4623074951240</id>
+    <published>2020-06-09T15:29:52-04:00</published>
+    <updated>2020-06-09T15:29:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/pink-mandala"/>
+    <title>Pink Mandala</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/2921e153-8a80-4b1a-bd3e-c3c6a05cad06_a2953952-c479-4b07-84a4-f49fd1a60abf.jpg?v=1592054370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/pink-mandala">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>boho</s:tag>
+    <s:tag>mandala</s:tag>
+    <s:tag>newarrival</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>Psychedelic</s:tag>
+    <s:tag>shabby</s:tag>
+    <s:tag>Shop Psychedelic Art</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4623074951240</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>MJPPOQ6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4623074951240</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>FD69DI67</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4623074951240</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>QX6OP3DR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4623074951240</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>JWWEAG2H</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4623074951240</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>8RWWT8AM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4623074951240</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>V58UEP4M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4623074951240</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>JSP8Y7IB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4623074951240</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>1C01WIZA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4437322727496</id>
+    <published>2020-01-07T09:41:02-05:00</published>
+    <updated>2020-01-07T09:41:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/wild-roses"/>
+    <title>Wild Roses</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/d21cb8b6-069f-4f8e-b506-24f47ac3915a_eeb32c8e-7442-4577-aa9a-b5a1b3695439.jpg?v=1592053718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/wild-roses">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>Flower</s:tag>
+    <s:tag>Flowers</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>Rose</s:tag>
+    <s:tag>roses</s:tag>
+    <s:tag>shabby</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4437322727496</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>DA44GR0B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4437322727496</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>58B3FT2B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4437322727496</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>HBL8NRCD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4437322727496</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>UHBJ2S0F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4437322727496</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>D0I5S841</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4437322727496</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>VSW2L6LH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4437322727496</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>2S8P2FS6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4437322727496</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>0TVJSYFQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4419276374088</id>
+    <published>2019-12-20T00:14:47-05:00</published>
+    <updated>2019-12-20T00:14:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/vase-with-poppies"/>
+    <title>Vase with Poppies</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/22df67b8-8e29-4249-b124-61a8a2cf361a_63d37293-cd99-45f8-aec2-160289f7cef0.jpg?v=1592053598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/vase-with-poppies">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>Flower</s:tag>
+    <s:tag>Flowers</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>oil painting</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>shabby</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4419276374088</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>Z1GNTOC5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4419276374088</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>C552QCUM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4419276374088</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>FWLAZ677</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4419276374088</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>VPNCAPR8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4419276374088</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>HPMZTP5W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4419276374088</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>0HFFI4YR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4419276374088</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>VDSEBI7A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4419276374088</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>HJ1KLDC2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/300612091933</id>
+    <published>2017-11-18T19:40:33-05:00</published>
+    <updated>2017-11-18T19:40:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/flowers-bouquet"/>
+    <title>Flowers Bouquet</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/6809a7b9-ec7e-484c-8659-b75aeda4d1dc_d45070ca-a305-44f3-afe0-ac83ef2de006.jpg?v=1592055412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/flowers-bouquet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme5p</s:tag>
+    <s:tag>Flower</s:tag>
+    <s:tag>Flowers</s:tag>
+    <s:tag>lastflip</s:tag>
+    <s:tag>liste8</s:tag>
+    <s:tag>multicolor</s:tag>
+    <s:tag>multicolors</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>shabby</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/300612091933</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>YTOPPBPX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/300612091933</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>Q36UCUUZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

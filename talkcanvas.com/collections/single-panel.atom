@@ -1,0 +1,2651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://nichecanvas.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://nichecanvas.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://nichecanvas.com/collections/single-panel.atom"/>
+  <title>NicheCanvas</title>
+  <updated>2020-07-17T16:57:50-04:00</updated>
+  <author>
+    <name>NicheCanvas</name>
+  </author>
+  <entry>
+    <id>https://nichecanvas.com/products/5235776782408</id>
+    <published>2020-07-17T16:57:50-04:00</published>
+    <updated>2020-07-17T16:57:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/african-continent-ben-heine"/>
+    <title>African Continent - Ben Heine</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/37ac61f1-6de1-43a1-a2c6-15e7d34eada3_fab8411e-c807-42bb-8221-b1534c84cc38.jpg?v=1595027705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/african-continent-ben-heine">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>africa</s:tag>
+    <s:tag>african</s:tag>
+    <s:tag>BenHeine</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>elephant</s:tag>
+    <s:tag>elephants</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>gray</s:tag>
+    <s:tag>grey</s:tag>
+    <s:tag>vendor_BenHeine</s:tag>
+    <s:tag>Watercolor</s:tag>
+    <s:tag>world map</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235776782408</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>H3ZSS3BD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235776782408</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>F0A8DVL3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235776782408</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>RIVR8IAX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235776782408</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>5FJDTSE6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235776782408</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>PT600KFV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235776782408</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>VLGK9FJM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235776782408</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>3S1T6S57</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235776782408</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>4ELBXKVV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5235775176776</id>
+    <published>2020-07-17T16:53:07-04:00</published>
+    <updated>2020-07-17T16:53:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/time-traveller-ben-heine"/>
+    <title>Time Traveller - Ben Heine</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/d21cb8b6-069f-4f8e-b506-24f47ac3915a_d0d64803-0030-4b79-a402-d7b177255752.jpg?v=1595027569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/time-traveller-ben-heine">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>BenHeine</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>vendor_BenHeine</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>woman</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235775176776</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>BIMIY7FG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235775176776</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>UKDEL1JE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235775176776</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>YR1SE0M0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235775176776</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>BNW3169Z</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235775176776</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>CBK8EESU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235775176776</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>RTI8MK3H</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235775176776</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>H5LC5KCH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235775176776</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>H1RZZE96</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5235773702216</id>
+    <published>2020-07-17T16:46:37-04:00</published>
+    <updated>2020-07-17T16:46:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/found-ben-heine"/>
+    <title>Nowhere to be Found - Ben Heine</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/37ac61f1-6de1-43a1-a2c6-15e7d34eada3_1c254466-41a2-4afd-b50f-be61880f9868.jpg?v=1595027377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/found-ben-heine">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>automobile</s:tag>
+    <s:tag>BenHeine</s:tag>
+    <s:tag>car</s:tag>
+    <s:tag>cars</s:tag>
+    <s:tag>farm</s:tag>
+    <s:tag>farmhouse</s:tag>
+    <s:tag>farming</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>field</s:tag>
+    <s:tag>photography</s:tag>
+    <s:tag>rustic</s:tag>
+    <s:tag>vendor_BenHeine</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235773702216</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>1VO2PQ6C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235773702216</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>CZC27EHX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235773702216</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>GN8A4RFW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235773702216</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>SLCRH035</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235773702216</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>XCP5KCGV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235773702216</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>OSF41NP0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235773702216</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>18J13ZZT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235773702216</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>C99HZ9U0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5235772096584</id>
+    <published>2020-07-17T16:40:19-04:00</published>
+    <updated>2020-07-17T16:40:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/the-road-never-ends-ben-heine"/>
+    <title>The Road Never Ends - Ben Heine</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/37ac61f1-6de1-43a1-a2c6-15e7d34eada3_dcea0ac4-bde8-4cda-b68c-c71bcb1a6d59.jpg?v=1595027224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/the-road-never-ends-ben-heine">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>BenHeine</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>hiking</s:tag>
+    <s:tag>photography</s:tag>
+    <s:tag>sport</s:tag>
+    <s:tag>sports</s:tag>
+    <s:tag>trail</s:tag>
+    <s:tag>vendor_BenHeine</s:tag>
+    <s:tag>walking</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235772096584</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>JN9TVAAW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235772096584</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>SX1B9BZA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235772096584</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>S1QHQ94W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235772096584</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>RWLNZV7H</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235772096584</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>YWD4XXP4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235772096584</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>2IGUZV3E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235772096584</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>98IUBX87</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235772096584</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>8YB3RYVF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5235770654792</id>
+    <published>2020-07-17T16:34:11-04:00</published>
+    <updated>2020-07-17T16:34:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/swan-ben-heine"/>
+    <title>Swan - Ben Heine</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/144905ee-9aba-4f25-b929-a8191a0ceace_8cfe3a0e-7737-4c28-bd3e-f4702757738a.jpg?v=1595027084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/swan-ben-heine">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>animal</s:tag>
+    <s:tag>animals</s:tag>
+    <s:tag>BenHeine</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>photography</s:tag>
+    <s:tag>swan</s:tag>
+    <s:tag>swans</s:tag>
+    <s:tag>vendor_BenHeine</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235770654792</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>35ZP4T55</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235770654792</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>C4BNGXHU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235770654792</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>OSJ3KMS4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235770654792</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>BI77V6ZI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235770654792</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>4Z23PI21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235770654792</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>9KFOAAVQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235770654792</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>2OQ3C8DV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235770654792</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>B63WNLYJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5235769081928</id>
+    <published>2020-07-17T16:29:24-04:00</published>
+    <updated>2020-07-17T16:29:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/flamboyance"/>
+    <title>Flamboyance - Ben Heine</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/144905ee-9aba-4f25-b929-a8191a0ceace_42d0c2ec-e2f9-4122-80a9-a0e4c6a63891.jpg?v=1595026898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/flamboyance">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>animal</s:tag>
+    <s:tag>animals</s:tag>
+    <s:tag>BenHeine</s:tag>
+    <s:tag>bird</s:tag>
+    <s:tag>birds</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>flamingo</s:tag>
+    <s:tag>flamingos</s:tag>
+    <s:tag>light blue</s:tag>
+    <s:tag>photography</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>vendor_BenHeine</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235769081928</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>SR2OGI5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235769081928</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>PWF2E8JY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235769081928</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>MRRV6GW4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235769081928</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>6V9HPXQB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235769081928</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>79JYNFD6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235769081928</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>YFDGK9E9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235769081928</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>B7NNVIKP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235769081928</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>0DMETI5M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5235763183688</id>
+    <published>2020-07-17T16:03:02-04:00</published>
+    <updated>2020-07-17T16:03:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/brooklyn-bridge-arch"/>
+    <title>Brooklyn Bridge Arch</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/d21cb8b6-069f-4f8e-b506-24f47ac3915a_0ba68a64-6be3-4a52-9026-6ac6df08d96e.jpg?v=1595026767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/brooklyn-bridge-arch">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>black and white</s:tag>
+    <s:tag>bridge</s:tag>
+    <s:tag>brooklyn</s:tag>
+    <s:tag>brooklyn bridge</s:tag>
+    <s:tag>new york</s:tag>
+    <s:tag>new york city</s:tag>
+    <s:tag>newarrival</s:tag>
+    <s:tag>photography</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235763183688</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>1SR0JPLI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235763183688</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>8MN7NAO0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235763183688</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>9VEMFBB8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235763183688</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>VHRRR57B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235763183688</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>S8KNUEF6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235763183688</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>DM7RZAZV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235763183688</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>6XMYLL6J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235763183688</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>LAJAURWH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5235762167880</id>
+    <published>2020-07-17T15:57:54-04:00</published>
+    <updated>2020-07-17T15:57:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/brooklyn-bridge-in-black-white"/>
+    <title>Brooklyn Bridge in Black &amp; White</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/2921e153-8a80-4b1a-bd3e-c3c6a05cad06_c1e134ab-a86a-401a-ab76-ca2288b0e215.jpg?v=1595026575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/brooklyn-bridge-in-black-white">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>black and white</s:tag>
+    <s:tag>bridge</s:tag>
+    <s:tag>brooklyn</s:tag>
+    <s:tag>brooklyn bridge</s:tag>
+    <s:tag>city</s:tag>
+    <s:tag>monument</s:tag>
+    <s:tag>monuments</s:tag>
+    <s:tag>new york</s:tag>
+    <s:tag>new york city</s:tag>
+    <s:tag>newarrival</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235762167880</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>BA59VY5A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235762167880</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>0E2F9K08</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235762167880</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>7PVLBH2Y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235762167880</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>RCJ5LJNW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235762167880</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>CUYHL1U2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235762167880</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>X7PWI8KL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235762167880</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>ZK7C8NC8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235762167880</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>I23QUTX7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5235760300104</id>
+    <published>2020-07-17T15:51:32-04:00</published>
+    <updated>2020-07-17T15:51:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/black-white-kitty-cat-ben-heine"/>
+    <title>Black &amp; White Kitty Cat - Ben Heine</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/22df67b8-8e29-4249-b124-61a8a2cf361a_144b44fd-074c-4c6e-b682-1cbae43e4ef7.jpg?v=1595026459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/black-white-kitty-cat-ben-heine">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>animal</s:tag>
+    <s:tag>animals</s:tag>
+    <s:tag>BenHeine</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>black and white</s:tag>
+    <s:tag>cat</s:tag>
+    <s:tag>Cats</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>vendor_BenHeine</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235760300104</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>RYZUDF9D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235760300104</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>OO26IZZQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235760300104</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>F3RTTQ0L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235760300104</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>7WP0UFIH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235760300104</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>IY2DGLRS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235760300104</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>9VPKWMNA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235760300104</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>EVBO2RUW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235760300104</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>FA2WZO17</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5235759218760</id>
+    <published>2020-07-17T15:44:44-04:00</published>
+    <updated>2020-07-17T15:44:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/it-is-freezing-ben-heine"/>
+    <title>It is Freezing - Ben Heine</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/144905ee-9aba-4f25-b929-a8191a0ceace_3cb7a3a0-c3d7-4471-897b-e3d7666e4b09.jpg?v=1595026264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/it-is-freezing-ben-heine">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>animal</s:tag>
+    <s:tag>animals</s:tag>
+    <s:tag>BenHeine</s:tag>
+    <s:tag>bird</s:tag>
+    <s:tag>birds</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>multicolor</s:tag>
+    <s:tag>multicolors</s:tag>
+    <s:tag>photography</s:tag>
+    <s:tag>vendor_BenHeine</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235759218760</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>0SDJ6ZQU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235759218760</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>0E8H9KUF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235759218760</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>H0S9QKLL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235759218760</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>CKSEDIHZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235759218760</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>TEAOJXCD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235759218760</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>8CDG37RS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235759218760</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>IV97A0VF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235759218760</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>9EESMXIV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5235758432328</id>
+    <published>2020-07-17T15:39:26-04:00</published>
+    <updated>2020-07-17T15:39:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/just-dreaming-ben-heine"/>
+    <title>Just Dreaming - Ben Heine</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/d21cb8b6-069f-4f8e-b506-24f47ac3915a_9ce5606a-2eed-4659-90fc-6285a5f13c4e.jpg?v=1595026135"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/just-dreaming-ben-heine">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>BenHeine</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>multicolor</s:tag>
+    <s:tag>multicolors</s:tag>
+    <s:tag>vendor_BenHeine</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235758432328</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>Z59BX7N7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235758432328</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>NWI1Q3KU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235758432328</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>HW91C64Q</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235758432328</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>F7QZU8U6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235758432328</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>LIU8B61S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235758432328</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>81RBYO05</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235758432328</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>KAG08QZK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235758432328</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>E7E00JO5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5235755745352</id>
+    <published>2020-07-17T15:30:08-04:00</published>
+    <updated>2020-07-17T15:30:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/otherness-ben-heine"/>
+    <title>Otherness - Ben Heine</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/37ac61f1-6de1-43a1-a2c6-15e7d34eada3_267341a5-b413-4001-b856-96a5c45a0155.jpg?v=1595025918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/otherness-ben-heine">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>BenHeine</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>Psychedelic</s:tag>
+    <s:tag>Shop Psychedelic Art</s:tag>
+    <s:tag>vendor_BenHeine</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235755745352</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>SYFTU9GU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235755745352</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>WTGE6WNJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235755745352</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>RAZM7OYR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235755745352</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>01WAMU3D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235755745352</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>MJ153EFS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235755745352</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>EEW5TC8D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235755745352</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>SJB5PQZ5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235755745352</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>GEEX1I68</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5235750633544</id>
+    <published>2020-07-17T15:08:46-04:00</published>
+    <updated>2020-07-17T15:08:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/guitar-ben-heine"/>
+    <title>Guitar - Ben Heine</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/144905ee-9aba-4f25-b929-a8191a0ceace_8979f8b0-f241-4730-998e-a5f7ba610381.jpg?v=1595025627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/guitar-ben-heine">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>BenHeine</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>black and white</s:tag>
+    <s:tag>country</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>Guitar</s:tag>
+    <s:tag>Guitars</s:tag>
+    <s:tag>music</s:tag>
+    <s:tag>photography</s:tag>
+    <s:tag>vendor_BenHeine</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235750633544</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>DVYK29U4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235750633544</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>O5CB3TLO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235750633544</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>64R9U58T</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235750633544</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>8GMVK8X6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235750633544</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>IF9ATY0R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235750633544</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>21E11CFF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235750633544</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>RLABCQN8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235750633544</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>ZENOSNAT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5235749060680</id>
+    <published>2020-07-17T15:01:18-04:00</published>
+    <updated>2020-07-17T15:01:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/inside-the-mosque-ben-heine"/>
+    <title>Inside the Mosque - Ben Heine</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/144905ee-9aba-4f25-b929-a8191a0ceace_53466cdb-762c-4973-a621-c1be6686645b.jpg?v=1595025387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/inside-the-mosque-ben-heine">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>BenHeine</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>Islam</s:tag>
+    <s:tag>islamic</s:tag>
+    <s:tag>masjid</s:tag>
+    <s:tag>mosque</s:tag>
+    <s:tag>muslim</s:tag>
+    <s:tag>photography</s:tag>
+    <s:tag>vendor_BenHeine</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235749060680</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>Y446JO6U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235749060680</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>MJX5TATC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235749060680</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>017KD9N1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235749060680</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>BWBW3WLX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235749060680</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>XX61WUKC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235749060680</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>UQ3HRY9F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235749060680</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>7PM9G535</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235749060680</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>475E4YTG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5235745521736</id>
+    <published>2020-07-17T14:54:31-04:00</published>
+    <updated>2020-07-17T14:54:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/believe-in-your-destiny-ben-heine"/>
+    <title>Believe In Your Destiny - Ben Heine</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/144905ee-9aba-4f25-b929-a8191a0ceace_f7ee6812-acca-4da4-8d89-77d87c9afd68.jpg?v=1595025217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/believe-in-your-destiny-ben-heine">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>BenHeine</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>blue and green</s:tag>
+    <s:tag>farming</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>field</s:tag>
+    <s:tag>grass</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>landscape</s:tag>
+    <s:tag>photography</s:tag>
+    <s:tag>tree</s:tag>
+    <s:tag>trees</s:tag>
+    <s:tag>vendor_BenHeine</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235745521736</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>EW5242ZK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235745521736</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>C0BKHHAF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235745521736</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>36FD810G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235745521736</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>Y2BEMTZN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235745521736</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>XY4U0JAZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235745521736</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>BWL8JM2W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235745521736</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>MI7570QE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235745521736</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>IUHB827O</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5235738312776</id>
+    <published>2020-07-17T14:12:55-04:00</published>
+    <updated>2020-07-17T14:12:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/shore-ben-heine"/>
+    <title>Shore - Ben Heine</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/144905ee-9aba-4f25-b929-a8191a0ceace_5d1e8ddd-47eb-42e2-ae96-008fce260ad4.jpg?v=1595030120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/shore-ben-heine">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>BenHeine</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>Boat</s:tag>
+    <s:tag>boats</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>photography</s:tag>
+    <s:tag>vendor_BenHeine</s:tag>
+    <s:tag>water</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235738312776</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>JQU0RL29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235738312776</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>354COHHY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235738312776</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>1TVEOKKQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235738312776</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>IH4ZKOY1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235738312776</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>BSNPC9SN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235738312776</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>SC0G45S7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235738312776</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>YF33PBJS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235738312776</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>M95LUP9Z</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5235737428040</id>
+    <published>2020-07-17T14:06:31-04:00</published>
+    <updated>2020-07-17T14:06:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/happy-together-ben-heine"/>
+    <title>Happy Together - Ben Heine</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/d21cb8b6-069f-4f8e-b506-24f47ac3915a_2ac5bb7d-a8cb-4e7f-a5f5-5a7df28bef89.jpg?v=1595029984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/happy-together-ben-heine">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>animal</s:tag>
+    <s:tag>animals</s:tag>
+    <s:tag>BenHeine</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>giraffe</s:tag>
+    <s:tag>multicolor</s:tag>
+    <s:tag>multicolors</s:tag>
+    <s:tag>photography</s:tag>
+    <s:tag>vendor_BenHeine</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235737428040</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>9PM161ZH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235737428040</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>PBHFY5F3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235737428040</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>VH06X244</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235737428040</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>230WSHV0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235737428040</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>FOZOECCP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235737428040</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>9UGNL88A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235737428040</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>6GCEB04J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235737428040</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>FL0A5JR8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5235736739912</id>
+    <published>2020-07-17T14:01:38-04:00</published>
+    <updated>2020-07-17T14:01:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/beautiful-dinant-ben-heine"/>
+    <title>Beautiful Dinant - Ben Heine</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/d21cb8b6-069f-4f8e-b506-24f47ac3915a_466ff677-47af-4092-b548-45ed027dd174.jpg?v=1595029850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/beautiful-dinant-ben-heine">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>belgium</s:tag>
+    <s:tag>BenHeine</s:tag>
+    <s:tag>cities</s:tag>
+    <s:tag>city</s:tag>
+    <s:tag>dinant</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>multicolor</s:tag>
+    <s:tag>multicolors</s:tag>
+    <s:tag>photography</s:tag>
+    <s:tag>vendor_BenHeine</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235736739912</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>X2EISNYL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235736739912</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>1EOTG8AE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235736739912</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>YSEXZU9R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235736739912</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>HFY0M6FT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235736739912</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>EGCHXINT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235736739912</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>NQAEKG47</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235736739912</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>E0C4Z9EP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235736739912</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>5PB4Z8EG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5235735855176</id>
+    <published>2020-07-17T13:56:11-04:00</published>
+    <updated>2020-07-17T13:56:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/cute-bear-ben-heine"/>
+    <title>Cute Bear - Ben Heine</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/22df67b8-8e29-4249-b124-61a8a2cf361a_8c219eb3-e737-4e4e-ba40-2fe1bae308e8.jpg?v=1595029657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/cute-bear-ben-heine">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>animal</s:tag>
+    <s:tag>animals</s:tag>
+    <s:tag>bear</s:tag>
+    <s:tag>bears</s:tag>
+    <s:tag>BenHeine</s:tag>
+    <s:tag>brown</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>photography</s:tag>
+    <s:tag>vendor_BenHeine</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235735855176</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>U82ZAMMG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235735855176</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>3C89R9O4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235735855176</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>NKALI1RW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235735855176</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>98ER2IL8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235735855176</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>IRMZQULB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235735855176</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>L452H23O</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235735855176</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>YUHAVZWI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235735855176</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>9ISVRLP7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5235734675528</id>
+    <published>2020-07-17T13:51:08-04:00</published>
+    <updated>2020-07-17T13:51:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/kenya-ben-heine"/>
+    <title>Kenya - Ben Heine</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/37ac61f1-6de1-43a1-a2c6-15e7d34eada3_2ce96425-99e3-4c4a-abea-d6e6d87de75b.jpg?v=1595029491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/kenya-ben-heine">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>animal</s:tag>
+    <s:tag>animals</s:tag>
+    <s:tag>antelope</s:tag>
+    <s:tag>BenHeine</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>photography</s:tag>
+    <s:tag>vendor_BenHeine</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235734675528</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>CRVCEJQ6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235734675528</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>TCA3T6UK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235734675528</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>86U2AQZS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235734675528</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>L869D0DN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235734675528</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>Y3Z3IM6H</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235734675528</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>78SBX7MS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235734675528</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>JSRN36JO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235734675528</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>WOS8KTTM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5235733364808</id>
+    <published>2020-07-17T13:42:34-04:00</published>
+    <updated>2020-07-17T13:42:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/hypnosis-ben-heine"/>
+    <title>Hypnosis - Ben Heine</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/37ac61f1-6de1-43a1-a2c6-15e7d34eada3_927d6194-6e51-4858-bba0-e16bbe6898ea.jpg?v=1595029325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/hypnosis-ben-heine">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>animal</s:tag>
+    <s:tag>animals</s:tag>
+    <s:tag>BenHeine</s:tag>
+    <s:tag>cat</s:tag>
+    <s:tag>cats</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>vendor_BenHeine</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235733364808</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>WQVH77A1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235733364808</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>9Z9TXB7Q</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235733364808</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>VYAD8CZN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235733364808</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>XF0V2WI9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235733364808</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>HZ41HGI5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235733364808</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>3ILPRBCD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235733364808</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>50CB94BH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235733364808</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>NCG4H6HB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5235729170504</id>
+    <published>2020-07-17T13:18:22-04:00</published>
+    <updated>2020-07-17T13:18:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/back-to-my-roots-ben-heine"/>
+    <title>Back to My Roots - Ben Heine</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/37ac61f1-6de1-43a1-a2c6-15e7d34eada3_1a3b038d-440c-40db-879d-f7277561afa9.jpg?v=1595029020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/back-to-my-roots-ben-heine">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>animal</s:tag>
+    <s:tag>animals</s:tag>
+    <s:tag>BenHeine</s:tag>
+    <s:tag>bird</s:tag>
+    <s:tag>birds</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>gray</s:tag>
+    <s:tag>grey</s:tag>
+    <s:tag>vendor_BenHeine</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235729170504</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>XG9955NF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235729170504</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>ASYB39AE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235729170504</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>X4BYJ7BV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235729170504</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>WE3AUEKM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235729170504</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>47O7PUZ1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235729170504</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>J7PAOCTD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235729170504</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>UXD3M2IW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235729170504</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>N5UVNSMX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5235727925320</id>
+    <published>2020-07-17T13:14:12-04:00</published>
+    <updated>2020-07-17T13:14:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/newtons-apple-tree-ben-heine"/>
+    <title>Newton&apos;s Apple Tree - Ben Heine</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/37ac61f1-6de1-43a1-a2c6-15e7d34eada3_38520d4f-e887-44ec-b66b-679402b7e0eb.jpg?v=1595028818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/newtons-apple-tree-ben-heine">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>agriculture</s:tag>
+    <s:tag>BenHeine</s:tag>
+    <s:tag>farm</s:tag>
+    <s:tag>farmhouse</s:tag>
+    <s:tag>farming</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>Landscape</s:tag>
+    <s:tag>tree</s:tag>
+    <s:tag>vendor_BenHeine</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235727925320</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>MXK3GCWZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235727925320</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>AXY5GESK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235727925320</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>G5S1DLWD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235727925320</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>PLEQLRJV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235727925320</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>A35KTMQ5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235727925320</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>DBV3F7CK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235727925320</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>KLDULHL2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235727925320</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>B2PWU5AC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5235726647368</id>
+    <published>2020-07-17T13:09:41-04:00</published>
+    <updated>2020-07-17T13:09:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/the-future-is-bright-ben-heine"/>
+    <title>The Future is Bright - Ben Heine</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/2921e153-8a80-4b1a-bd3e-c3c6a05cad06_de832d54-e9c0-479a-bcf8-488a06d55313.jpg?v=1595028651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/the-future-is-bright-ben-heine">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>animal</s:tag>
+    <s:tag>animals</s:tag>
+    <s:tag>BenHeine</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>elephant</s:tag>
+    <s:tag>elephants</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>photography</s:tag>
+    <s:tag>vendor_BenHeine</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235726647368</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>DC0XQCPA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235726647368</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>UZ1C4D9L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235726647368</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>HLJV2L1S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235726647368</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>JD04LL8I</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235726647368</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>08975NAD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235726647368</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>GJPI8ISR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235726647368</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>YW1Y5BCC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235726647368</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>L2AJFAAV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5235724648520</id>
+    <published>2020-07-17T13:04:23-04:00</published>
+    <updated>2020-07-17T13:04:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/the-gift-of-life-ben-heine"/>
+    <title>The Gift of Life - Ben Heine</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/d21cb8b6-069f-4f8e-b506-24f47ac3915a_375974f3-e63c-4c98-8d0d-92d0ac1498a3.jpg?v=1595028527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/the-gift-of-life-ben-heine">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>BenHeine</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>farmhouse</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>Landscape</s:tag>
+    <s:tag>photography</s:tag>
+    <s:tag>tree</s:tag>
+    <s:tag>vendor_BenHeine</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235724648520</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>CBUIU7BG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235724648520</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>KGMTIMXM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235724648520</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>55P76C94</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235724648520</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>2T8WMV3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235724648520</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>XKBGCUNI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235724648520</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>PLE15MSO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235724648520</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>KEVWTJ7B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235724648520</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>G12T7RK0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

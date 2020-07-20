@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://nichecanvas.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://nichecanvas.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://nichecanvas.com/collections/bedroom.atom"/>
+  <title>NicheCanvas</title>
+  <updated>2020-07-06T13:18:29-04:00</updated>
+  <author>
+    <name>NicheCanvas</name>
+  </author>
+  <entry>
+    <id>https://nichecanvas.com/products/4637821468744</id>
+    <published>2020-07-06T13:18:29-04:00</published>
+    <updated>2020-07-06T13:18:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/rabbit-fishing"/>
+    <title>Rabbit Fishing</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/144905ee-9aba-4f25-b929-a8191a0ceace_b4b3a17b-4c0c-44cb-99f2-57f02f64e698.jpg?v=1594063298"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/rabbit-fishing">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>bedroom</s:tag>
+    <s:tag>bunny</s:tag>
+    <s:tag>child</s:tag>
+    <s:tag>children</s:tag>
+    <s:tag>fantasy</s:tag>
+    <s:tag>kid</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>kids room</s:tag>
+    <s:tag>oil painting</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>rabbit</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4637821468744</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>8QUUQLL8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4637821468744</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>LPA4SSRR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4637821468744</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>ZBB8Z3WY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4637821468744</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>8C0WQ3KA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4637821468744</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>0VQM5YOT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4637821468744</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>6N9JSY6U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4637821468744</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>NHTFCNC2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4637821468744</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>G177VD75</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4468564492360</id>
+    <published>2020-02-07T09:26:59-05:00</published>
+    <updated>2020-02-07T09:26:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/valentines-day-sunset"/>
+    <title>Valentine&apos;s Day Dinner</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/d21cb8b6-069f-4f8e-b506-24f47ac3915a_15b25a30-5cb6-4361-bd03-a52e9c47478e.jpg?v=1594912280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/valentines-day-sunset">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take home the Valentine's Day Dinner canvas art print and decorate your room with a testament to love. This detailed artwork is immortalized on a canvas with immersive passion and realistic detail. Choose the perfect print size and hanging style to match your room. At NicheCanvas, we believe that art should imitate life and draw on authentic emotions. Our hand-picked Love collection is inspired by romance, passion, and purpose.</p><p><br></p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>beach</s:tag>
+    <s:tag>bedroom</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>photography</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4468564492360</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>S4VF0BFQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4468564492360</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>2RIR7JS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4468564492360</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>XRALNY8G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4468564492360</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>B4Q5VEMN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4468564492360</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>UXXDVNV3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4468564492360</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>HX8ZG1EI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4468564492360</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>JK0F2Z1N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4468564492360</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>VBKLPHGQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4431587016776</id>
+    <published>2020-01-03T13:05:30-05:00</published>
+    <updated>2020-01-03T13:05:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/holding-hands-in-the-park"/>
+    <title>Holding Hands in the Park</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/2921e153-8a80-4b1a-bd3e-c3c6a05cad06_838d07f9-6892-4120-ad6d-b2d6c06a36d8.jpg?v=1592456352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/holding-hands-in-the-park">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take home the Holding Hands in the Park canvas art print and decorate your room with a testament to love. This detailed artwork is immortalized on a canvas with immersive passion and realistic detail. Choose the perfect print size and hanging style to match your room. At NicheCanvas, we believe that art should imitate life and draw on authentic emotions. Our hand-picked Love collection is inspired by romance, passion, and purpose.</p><p><br></p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>bedroom</s:tag>
+    <s:tag>couple</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>oil painting</s:tag>
+    <s:tag>orange</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4431587016776</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>IJAKZDRX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4431587016776</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>SJSGB9TC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4431587016776</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>FPH56RMX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4431587016776</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>AJKVYGKR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4431587016776</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>LVJWRDLN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4431587016776</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>TMO2U18R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4431587016776</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>JZKEEAB2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4431587016776</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>9FCVMP44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4420708892744</id>
+    <published>2019-12-21T19:16:19-05:00</published>
+    <updated>2019-12-21T19:16:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/giant-panda"/>
+    <title>Giant Panda</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/d21cb8b6-069f-4f8e-b506-24f47ac3915a_a0bdf7c5-ba87-43ca-af1b-584fe71b4b4e.jpg?v=1594912178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/giant-panda">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Live on the wild side. This handcrafted wall art highlights the beauty and distinct personality of your favorite animal. Giant Panda gives you an up close view of a fierce animal across a premium canvas print. With a colorful palette and exquisite attention to detail, the artist was able to capture a unique view of the animal kingdom.</p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>animal</s:tag>
+    <s:tag>animals</s:tag>
+    <s:tag>bedroom</s:tag>
+    <s:tag>black and blue</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>panda</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4420708892744</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>W42FDGI7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4420708892744</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>WB0FLI3K</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4420708892744</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>3B2Q3W46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4420708892744</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>CZ727949</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4420708892744</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>6ZUCCUQE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4420708892744</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>355FKCL3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4420708892744</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>UAK6RARQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4420708892744</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>4UXZIZYY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4412206022728</id>
+    <published>2019-12-14T18:45:58-05:00</published>
+    <updated>2019-12-14T18:45:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/couple-by-the-sunset"/>
+    <title>Couple by the Sunset</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/144905ee-9aba-4f25-b929-a8191a0ceace_c4ea828b-1964-4aa9-962b-aa36f0a27895.jpg?v=1593061006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/couple-by-the-sunset">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take home the Couple by the Sunset canvas art print and decorate your room with a testament to love. This detailed artwork is immortalized on a canvas with immersive passion and realistic detail. Choose the perfect print size and hanging style to match your room. At NicheCanvas, we believe that art should imitate life and draw on authentic emotions. Our hand-picked Love collection is inspired by romance, passion, and purpose.</p><p><br></p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>bedroom</s:tag>
+    <s:tag>black and orange</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>man</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>photography</s:tag>
+    <s:tag>tropical landscape</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4412206022728</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>7A2B2TT1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4412206022728</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>J7BWKFUL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4412206022728</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>DWNHV97J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4412206022728</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>6VIEC1TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4412206022728</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>TNO0ATTF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4412206022728</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>JPIO98IS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4412206022728</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>VTXWW0DC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4412206022728</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>8TI8APD9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

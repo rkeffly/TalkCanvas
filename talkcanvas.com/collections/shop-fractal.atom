@@ -1,0 +1,1521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://nichecanvas.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://nichecanvas.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://nichecanvas.com/collections/shop-fractal.atom"/>
+  <title>NicheCanvas</title>
+  <updated>2020-07-16T12:53:30-04:00</updated>
+  <author>
+    <name>NicheCanvas</name>
+  </author>
+  <entry>
+    <id>https://nichecanvas.com/products/5235354271816</id>
+    <published>2020-07-16T12:53:30-04:00</published>
+    <updated>2020-07-16T12:53:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/pink-orange-fractal-flower"/>
+    <title>Pink &amp; Orange Fractal Flower</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/6809a7b9-ec7e-484c-8659-b75aeda4d1dc_2241a0fa-a1c1-4ce9-9b7b-9b7350e818f1.jpg?v=1594930689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/pink-orange-fractal-flower">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme5p</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>fractal</s:tag>
+    <s:tag>Fractal Art</s:tag>
+    <s:tag>newark</s:tag>
+    <s:tag>newarrival</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>purple</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235354271816</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>ABJF8L1W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235354271816</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>IJTZWDXZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5235350896712</id>
+    <published>2020-07-16T12:46:03-04:00</published>
+    <updated>2020-07-16T12:46:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/purple-fractal-design"/>
+    <title>Purple Fractal Design</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/6809a7b9-ec7e-484c-8659-b75aeda4d1dc_50ec1524-a139-4ddc-b7d3-d4c997050909.jpg?v=1594930641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/purple-fractal-design">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme5p</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>fractal</s:tag>
+    <s:tag>Fractal Art</s:tag>
+    <s:tag>newarrival</s:tag>
+    <s:tag>purple</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235350896712</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>908HWBNK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235350896712</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>N984OZWM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5235348668488</id>
+    <published>2020-07-16T12:39:35-04:00</published>
+    <updated>2020-07-16T12:39:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/dark-orange-fractal-flower"/>
+    <title>Dark Orange Fractal Flower</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/6809a7b9-ec7e-484c-8659-b75aeda4d1dc_27bbc4b0-61ac-4cc6-9942-456607058be9.jpg?v=1594930614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/dark-orange-fractal-flower">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme5p</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>fractal</s:tag>
+    <s:tag>Fractal Art</s:tag>
+    <s:tag>newarrival</s:tag>
+    <s:tag>orange</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235348668488</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>VWDYHIXJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235348668488</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>SV1YM3T4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4414752620616</id>
+    <published>2019-12-17T14:44:00-05:00</published>
+    <updated>2019-12-17T14:44:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/violet-fractal-flower"/>
+    <title>Violet Fractal Flower</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/d21cb8b6-069f-4f8e-b506-24f47ac3915a_68d7a636-500b-42bb-973c-70786a9a8c5c.jpg?v=1593059639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/violet-fractal-flower">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Play with symmetry and reflections. This fractal art style is thoughtful and refined with exceptional detail. Violet Fractal Flower extends over a premium canvas with an engaging sense of motion. The subject spins, reflects, and spreads immersive depth like a complex mandala. What story and emotion does this piece of wall art spark in you? This vibrant piece of fine art is designed to create a dramatic focal point.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>fractal</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>violet</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414752620616</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>DH0E6VHK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414752620616</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>GWB32QP3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414752620616</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>UTS4ZBK4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414752620616</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>0H16S01T</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414752620616</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>8PBSMK51</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414752620616</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>BGUU8KGK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414752620616</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>23VUX636</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414752620616</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>NPDUMKNN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4414741151816</id>
+    <published>2019-12-17T14:24:45-05:00</published>
+    <updated>2019-12-17T14:24:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/fractal-perception"/>
+    <title>Fractal Perception</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/d21cb8b6-069f-4f8e-b506-24f47ac3915a_e3a8405a-77e4-48e0-80c6-dbdbe6bb52b6.jpg?v=1592055454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/fractal-perception">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Play with symmetry and reflections. This fractal art style is thoughtful and refined with exceptional detail. Fractal Perception extends over a premium canvas with an engaging sense of motion. The subject spins, reflects, and spreads immersive depth like a complex mandala. What story and emotion does this piece of wall art spark in you? This vibrant piece of fine art is designed to create a dramatic focal point.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>fractal</s:tag>
+    <s:tag>green</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414741151816</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>PJ3YGYRD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414741151816</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>JXSGNOAY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414741151816</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>33TORS3G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414741151816</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>T54PSACY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414741151816</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>GN7E0N79</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414741151816</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>K8CD02E1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414741151816</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>00K0DJRW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414741151816</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>QEIXPNDS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4414733385800</id>
+    <published>2019-12-17T14:12:13-05:00</published>
+    <updated>2019-12-17T14:12:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/dark-purple-and-blue-fractal-flower"/>
+    <title>Dark Purple and Blue Fractal Flower</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/d21cb8b6-069f-4f8e-b506-24f47ac3915a_f4370a96-a81b-4d34-8275-99780cdbd2bb.jpg?v=1592056154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/dark-purple-and-blue-fractal-flower">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Play with symmetry and reflections. This fractal art style is thoughtful and refined with exceptional detail. Dark Purple and Blue Fractal Flower extends over a premium canvas with an engaging sense of motion. The subject spins, reflects, and spreads immersive depth like a complex mandala. What story and emotion does this piece of wall art spark in you? This vibrant piece of fine art is designed to create a dramatic focal point.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>fractal</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>teal</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414733385800</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>X3ZNZQCP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414733385800</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>CC2BJ8O9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414733385800</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>JKECC8GU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414733385800</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>WHWCSA4S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414733385800</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>OWNQU1ED</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414733385800</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>75VASMIW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414733385800</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>9Q99MEID</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414733385800</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>EV9MIRXW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4414712315976</id>
+    <published>2019-12-17T13:36:46-05:00</published>
+    <updated>2019-12-17T13:36:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/blue-and-yellow-fractal-butterfly"/>
+    <title>Blue and Yellow Fractal Design</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/144905ee-9aba-4f25-b929-a8191a0ceace_23133b14-64c1-43fe-bb5c-95ee27e0cfda.jpg?v=1592454227"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/blue-and-yellow-fractal-butterfly">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Play with symmetry and reflections. This fractal art style is thoughtful and refined with exceptional detail. Blue and Yellow Fractal Design extends over a premium canvas with an engaging sense of motion. The subject spins, reflects, and spreads immersive depth like a complex mandala. What story and emotion does this piece of wall art spark in you? This vibrant piece of fine art is designed to create a dramatic focal point.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>blue and yellow</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>fractal</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414712315976</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>C7QKHBH3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414712315976</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>22FN5IDT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414712315976</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>CSTIRYHK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414712315976</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>7DDMQKOW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414712315976</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>FHS7CU6Y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414712315976</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>YMYJYBVY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414712315976</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>9BGIRPYS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414712315976</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>9MDMHL77</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4414707695688</id>
+    <published>2019-12-17T13:32:37-05:00</published>
+    <updated>2019-12-17T13:32:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/fractal-texture"/>
+    <title>Fractal Texture</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/144905ee-9aba-4f25-b929-a8191a0ceace_58ca9fb4-1578-40e6-b19e-1a42fa3bad1f.jpg?v=1594912014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/fractal-texture">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Play with symmetry and reflections. This fractal art style is thoughtful and refined with exceptional detail. Fractal Texture extends over a premium canvas with an engaging sense of motion. The subject spins, reflects, and spreads immersive depth like a complex mandala. What story and emotion does this piece of wall art spark in you? This vibrant piece of fine art is designed to create a dramatic focal point.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>fractal</s:tag>
+    <s:tag>orange</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414707695688</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>GOTL41RZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414707695688</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>FV63NCF2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414707695688</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>EWQEZYIW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414707695688</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>SAU3CQCD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414707695688</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>6LZKPKH1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414707695688</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>CKW7I30I</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414707695688</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>VC9MZSZL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414707695688</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>GE8WFD9N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4414669914184</id>
+    <published>2019-12-17T12:36:08-05:00</published>
+    <updated>2019-12-17T12:36:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/blue-and-gold-fractal-flower"/>
+    <title>Blue and Gold Fractal Flower</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/0e266fcc-97d8-4e15-a8cb-ec4773bf0396.jpg?v=1592053314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/blue-and-gold-fractal-flower">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Play with symmetry and reflections. This fractal art style is thoughtful and refined with exceptional detail. Blue and Gold Fractal Flower extends over a premium canvas with an engaging sense of motion. The subject spins, reflects, and spreads immersive depth like a complex mandala. What story and emotion does this piece of wall art spark in you? This vibrant piece of fine art is designed to create a dramatic focal point.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>blue and gold</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>Flower</s:tag>
+    <s:tag>fractal</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414669914184</id>
+      <title>canvas / small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>T9GXL4RA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414669914184</id>
+      <title>canvas / medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>8RF552PT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414669914184</id>
+      <title>canvas / large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>PND5GRSI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414669914184</id>
+      <title>canvas / huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>POZMXTBO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414669914184</id>
+      <title>floating frame / small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>T57L27M5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414669914184</id>
+      <title>floating frame / medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>ZFLXG756</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414669914184</id>
+      <title>floating frame / large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>648Y46AP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4414669914184</id>
+      <title>floating frame / huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>KJ8H8JLD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4412654551112</id>
+    <published>2019-12-15T09:19:45-05:00</published>
+    <updated>2019-12-15T09:19:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/golden-rays-fractal-flower"/>
+    <title>Golden Rays Fractal Flower</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/6809a7b9-ec7e-484c-8659-b75aeda4d1dc_9e6b161b-48cb-431c-8408-e7ce51d41b8b.jpg?v=1592055585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/golden-rays-fractal-flower">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Play with symmetry and reflections. This fractal art style is thoughtful and refined with exceptional detail. Golden Rays Fractal Flower extends over a premium canvas with an engaging sense of motion. The subject spins, reflects, and spreads immersive depth like a complex mandala. What story and emotion does this piece of wall art spark in you? This vibrant piece of fine art is designed to create a dramatic focal point.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme5p</s:tag>
+    <s:tag>bestseller</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>Flower</s:tag>
+    <s:tag>Flowers</s:tag>
+    <s:tag>fractal</s:tag>
+    <s:tag>Fractal Art</s:tag>
+    <s:tag>gold</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4412654551112</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>1KW9UQ91</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4412654551112</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>BKLAO5XF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4409564889160</id>
+    <published>2019-12-12T14:34:41-05:00</published>
+    <updated>2019-12-12T14:34:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/yellow-black-fractal-flower"/>
+    <title>Yellow &amp; Black Fractal Flower</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/6809a7b9-ec7e-484c-8659-b75aeda4d1dc_d76a24aa-d9f5-4de2-bf31-b55f9bf9ad62.jpg?v=1592054911"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/yellow-black-fractal-flower">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Play with symmetry and reflections. This fractal art style is thoughtful and refined with exceptional detail. Yellow &amp; Black Fractal Flower extends over a premium canvas with an engaging sense of motion. The subject spins, reflects, and spreads immersive depth like a complex mandala. What story and emotion does this piece of wall art spark in you? This vibrant piece of fine art is designed to create a dramatic focal point.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme5p</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>fractal</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:tag>yellow and black</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4409564889160</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>UPUSBJSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4409564889160</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>KGMLEAKV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4409543327816</id>
+    <published>2019-12-12T14:16:19-05:00</published>
+    <updated>2019-12-12T14:16:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/golden-fractal-canvas-set"/>
+    <title>Golden Fractal Canvas Set</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/074af4c4-237f-4625-a315-c800114f4480_9f4af8a3-a355-4750-b2a9-5d2a1f3f8e17.jpg?v=1592055573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/golden-fractal-canvas-set">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Play with symmetry and reflections. This fractal art style is thoughtful and refined with exceptional detail. Golden Fractal Canvas Set extends over a premium canvas with an engaging sense of motion. The subject spins, reflects, and spreads immersive depth like a complex mandala. What story and emotion does this piece of wall art spark in you? This vibrant piece of fine art is designed to create a dramatic focal point.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme5p</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>blue and gold</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>fractal</s:tag>
+    <s:tag>gold</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4409543327816</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>RU41OUZD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4409543327816</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>YD7BLXLH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4409540771912</id>
+    <published>2019-12-12T14:14:10-05:00</published>
+    <updated>2019-12-12T14:14:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/blue-fractal-flower-design"/>
+    <title>Blue Fractal Flower Design</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/6809a7b9-ec7e-484c-8659-b75aeda4d1dc_eecb746e-b18b-43e5-b332-934c7be33c5d.jpg?v=1592053332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/blue-fractal-flower-design">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Play with symmetry and reflections. This fractal art style is thoughtful and refined with exceptional detail. Blue Fractal Flower Design extends over a premium canvas with an engaging sense of motion. The subject spins, reflects, and spreads immersive depth like a complex mandala. What story and emotion does this piece of wall art spark in you? This vibrant piece of fine art is designed to create a dramatic focal point.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme5p</s:tag>
+    <s:tag>blue and white</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>flower</s:tag>
+    <s:tag>flowers</s:tag>
+    <s:tag>fractal</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4409540771912</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>X6G8SW9G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4409540771912</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>H77RBVF3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4408631918664</id>
+    <published>2019-12-12T00:11:42-05:00</published>
+    <updated>2019-12-12T00:11:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/infinite-blue-flower"/>
+    <title>Infinite Blue Flower</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/6809a7b9-ec7e-484c-8659-b75aeda4d1dc_03764673-7fa2-4dd9-9912-69751b9d5a74.jpg?v=1592054245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/infinite-blue-flower">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Play with symmetry and reflections. This fractal art style is thoughtful and refined with exceptional detail. Infinite Blue Flower extends over a premium canvas with an engaging sense of motion. The subject spins, reflects, and spreads immersive depth like a complex mandala. What story and emotion does this piece of wall art spark in you? This vibrant piece of fine art is designed to create a dramatic focal point.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme5p</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>Flower</s:tag>
+    <s:tag>Flowers</s:tag>
+    <s:tag>fractal</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4408631918664</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>L3CG69CS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4408631918664</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>AB9ARB42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4408624808008</id>
+    <published>2019-12-12T00:03:50-05:00</published>
+    <updated>2019-12-12T00:03:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/dark-purple-fractal-flower"/>
+    <title>Dark Purple Fractal Flower</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/074af4c4-237f-4625-a315-c800114f4480_101a8dc7-666b-4853-90b8-17d680b1fc68.jpg?v=1592056155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/dark-purple-fractal-flower">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Play with symmetry and reflections. This fractal art style is thoughtful and refined with exceptional detail. Dark Purple Fractal Flower extends over a premium canvas with an engaging sense of motion. The subject spins, reflects, and spreads immersive depth like a complex mandala. What story and emotion does this piece of wall art spark in you? This vibrant piece of fine art is designed to create a dramatic focal point.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme5p</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>fractal</s:tag>
+    <s:tag>purple</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4408624808008</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>J9KTGDDS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4408624808008</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>E4AFJ2WW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4407809998920</id>
+    <published>2019-12-11T10:48:37-05:00</published>
+    <updated>2019-12-11T10:48:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/dark-blue-digital-flower"/>
+    <title>Dark Blue Digital Flower</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/6809a7b9-ec7e-484c-8659-b75aeda4d1dc_00207a15-e69b-44e9-ae17-3e1cecb7b9bb.jpg?v=1592056144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/dark-blue-digital-flower">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Play with symmetry and reflections. This fractal art style is thoughtful and refined with exceptional detail. Dark Blue Digital Flower extends over a premium canvas with an engaging sense of motion. The subject spins, reflects, and spreads immersive depth like a complex mandala. What story and emotion does this piece of wall art spark in you? This vibrant piece of fine art is designed to create a dramatic focal point.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme5p</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>flower</s:tag>
+    <s:tag>fractal</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4407809998920</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>EN2R9I9M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4407809998920</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>BUSDE38S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4407804297288</id>
+    <published>2019-12-11T10:42:39-05:00</published>
+    <updated>2019-12-11T10:42:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/dark-blue-fractal-flower"/>
+    <title>Dark Blue Fractal Flower</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/6809a7b9-ec7e-484c-8659-b75aeda4d1dc_1360b6c7-ee3f-43e9-96bd-3296d750dfbf.jpg?v=1592056145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/dark-blue-fractal-flower">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Play with symmetry and reflections. This fractal art style is thoughtful and refined with exceptional detail. Dark Blue Fractal Flower extends over a premium canvas with an engaging sense of motion. The subject spins, reflects, and spreads immersive depth like a complex mandala. What story and emotion does this piece of wall art spark in you? This vibrant piece of fine art is designed to create a dramatic focal point.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme5p</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>flower</s:tag>
+    <s:tag>fractal</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4407804297288</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>UKRYJ93Z</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4407804297288</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>NWQ52M0T</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4399349989448</id>
+    <published>2019-12-06T16:07:36-05:00</published>
+    <updated>2019-12-06T16:07:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/ethereal-macro"/>
+    <title>Ethereal Macro</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/074af4c4-237f-4625-a315-c800114f4480_837bc86e-577f-475a-ac1f-5eb6e6b90562.jpg?v=1592055315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/ethereal-macro">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Play with symmetry and reflections. This fractal art style is thoughtful and refined with exceptional detail. Ethereal Macro extends over a premium canvas with an engaging sense of motion. The subject spins, reflects, and spreads immersive depth like a complex mandala. What story and emotion does this piece of wall art spark in you? This vibrant piece of fine art is designed to create a dramatic focal point.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme5p</s:tag>
+    <s:tag>blue and red</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>fractal</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4399349989448</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>U87TR8AV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4399349989448</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>2YMYPK9S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4399343566920</id>
+    <published>2019-12-06T16:02:27-05:00</published>
+    <updated>2019-12-06T16:02:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/psychedelic-dust"/>
+    <title>Psychedelic Dust</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/6809a7b9-ec7e-484c-8659-b75aeda4d1dc_b67505ad-03a1-441e-aff0-f9017123a082.jpg?v=1592054421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/psychedelic-dust">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Play with symmetry and reflections. This fractal art style is thoughtful and refined with exceptional detail. Psychedelic Dust extends over a premium canvas with an engaging sense of motion. The subject spins, reflects, and spreads immersive depth like a complex mandala. What story and emotion does this piece of wall art spark in you? This vibrant piece of fine art is designed to create a dramatic focal point.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme5p</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>fractal</s:tag>
+    <s:tag>multicolor</s:tag>
+    <s:tag>multicolors</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4399343566920</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>RULDIZ72</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4399343566920</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>JV0L4D7B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4399339176008</id>
+    <published>2019-12-06T15:58:28-05:00</published>
+    <updated>2019-12-06T15:58:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/pristine-ice"/>
+    <title>Pristine Ice</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/raysbleu.jpg?v=1592054416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/pristine-ice">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Play with symmetry and reflections. This fractal art style is thoughtful and refined with exceptional detail. Pristine Ice extends over a premium canvas with an engaging sense of motion. The subject spins, reflects, and spreads immersive depth like a complex mandala. What story and emotion does this piece of wall art spark in you? This vibrant piece of fine art is designed to create a dramatic focal point.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme5p</s:tag>
+    <s:tag>bestseller</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>blue and white</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>fractal</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4399339176008</id>
+      <title>canvas / large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>PLTSRELN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4399339176008</id>
+      <title>canvas / huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>70MWU3HG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4399337046088</id>
+    <published>2019-12-06T15:56:49-05:00</published>
+    <updated>2019-12-06T15:56:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/blue-shadow"/>
+    <title>Blue Shadow</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/v_2_72df025e-0968-4d30-b0a5-a514485a5c07.jpg?v=1592053346"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/blue-shadow">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Play with symmetry and reflections. This fractal art style is thoughtful and refined with exceptional detail. Blue Shadow extends over a premium canvas with an engaging sense of motion. The subject spins, reflects, and spreads immersive depth like a complex mandala. What story and emotion does this piece of wall art spark in you? This vibrant piece of fine art is designed to create a dramatic focal point.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme5p</s:tag>
+    <s:tag>brown</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>Flower</s:tag>
+    <s:tag>Flowers</s:tag>
+    <s:tag>fractal</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4399337046088</id>
+      <title>canvas / large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>C2GJC7V8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4399337046088</id>
+      <title>canvas / huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>QIT1OQWJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4399335112776</id>
+    <published>2019-12-06T15:54:54-05:00</published>
+    <updated>2019-12-06T15:54:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/pink-expression"/>
+    <title>Pink Expression</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/074af4c4-237f-4625-a315-c800114f4480_7d3a18a7-cc22-4b49-aa70-08e58687b315.jpg?v=1592054368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/pink-expression">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Play with symmetry and reflections. This fractal art style is thoughtful and refined with exceptional detail. Pink Expression extends over a premium canvas with an engaging sense of motion. The subject spins, reflects, and spreads immersive depth like a complex mandala. What story and emotion does this piece of wall art spark in you? This vibrant piece of fine art is designed to create a dramatic focal point.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme5p</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>fractal</s:tag>
+    <s:tag>pink</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4399335112776</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>HY188O0J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4399335112776</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>CA8K3GYQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4399331475528</id>
+    <published>2019-12-06T15:51:46-05:00</published>
+    <updated>2019-12-06T15:51:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/stunning-blossom"/>
+    <title>Stunning Blossom</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/074af4c4-237f-4625-a315-c800114f4480_9f423192-c1ef-4545-8b74-c71eb2d7e908.jpg?v=1592054682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/stunning-blossom">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Play with symmetry and reflections. This fractal art style is thoughtful and refined with exceptional detail. Stunning Blossom extends over a premium canvas with an engaging sense of motion. The subject spins, reflects, and spreads immersive depth like a complex mandala. What story and emotion does this piece of wall art spark in you? This vibrant piece of fine art is designed to create a dramatic focal point.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme5p</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>fractal</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4399331475528</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>KS5DQO4P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4399331475528</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>9UN7CUZJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4399326756936</id>
+    <published>2019-12-06T15:47:38-05:00</published>
+    <updated>2019-12-06T15:47:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/fractal-brilliance"/>
+    <title>Fractal Brilliance</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/074af4c4-237f-4625-a315-c800114f4480_abd876bc-b172-4db5-a41d-e98e144b0108.jpg?v=1592055450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/fractal-brilliance">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Play with symmetry and reflections. This fractal art style is thoughtful and refined with exceptional detail. Fractal Brilliance extends over a premium canvas with an engaging sense of motion. The subject spins, reflects, and spreads immersive depth like a complex mandala. What story and emotion does this piece of wall art spark in you? This vibrant piece of fine art is designed to create a dramatic focal point.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme5p</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>fractal</s:tag>
+    <s:tag>pink</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4399326756936</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>8OGP2TIW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4399326756936</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>687EKXO9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4399317090376</id>
+    <published>2019-12-06T15:39:08-05:00</published>
+    <updated>2019-12-06T15:39:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/fractal-profile"/>
+    <title>Fractal Profile</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/074af4c4-237f-4625-a315-c800114f4480_959d89e9-1fd9-4872-9cd3-de6458b75a4b.jpg?v=1592055456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/fractal-profile">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Play with symmetry and reflections. This fractal art style is thoughtful and refined with exceptional detail. Fractal Profile extends over a premium canvas with an engaging sense of motion. The subject spins, reflects, and spreads immersive depth like a complex mandala. What story and emotion does this piece of wall art spark in you? This vibrant piece of fine art is designed to create a dramatic focal point.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme5p</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>fractal</s:tag>
+    <s:tag>pink</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4399317090376</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>69WRDZ6A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4399317090376</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>TVY2FFLW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

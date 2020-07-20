@@ -1,0 +1,2136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://nichecanvas.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://nichecanvas.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://nichecanvas.com/collections/shop-love-1.atom"/>
+  <title>NicheCanvas</title>
+  <updated>2020-07-15T14:48:10-04:00</updated>
+  <author>
+    <name>NicheCanvas</name>
+  </author>
+  <entry>
+    <id>https://nichecanvas.com/products/5012299120712</id>
+    <published>2020-07-15T14:48:10-04:00</published>
+    <updated>2020-07-15T14:48:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/view-above-the-clouds-milos-karanovic"/>
+    <title>View Above the Clouds - Milos Karanovic</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/37ac61f1-6de1-43a1-a2c6-15e7d34eada3_de1e8bde-5d6e-4bb2-b50c-7218057a6081.jpg?v=1594851174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/view-above-the-clouds-milos-karanovic">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take home the View Above the Clouds - Milos Karanovic canvas art print and decorate your room with a testament to love. This detailed artwork is immortalized on a canvas with immersive passion and realistic detail. Choose the perfect print size and hanging style to match your room. At NicheCanvas, we believe that art should imitate life and draw on authentic emotions. Our hand-picked Love collection is inspired by romance, passion, and purpose.</p><p><br></p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>couple</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>MilosKaranovic</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>vendor_MilosKaranovic</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5012299120712</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>2NYCVPE4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5012299120712</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>921YMU0K</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5012299120712</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>J07HU7MU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5012299120712</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>PILBN104</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5012299120712</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>B837VEJS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5012299120712</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>O7B5CYT5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5012299120712</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>U9SNCQC3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5012299120712</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>V8W1NE0S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5010819285064</id>
+    <published>2020-07-13T16:36:52-04:00</published>
+    <updated>2020-07-13T16:36:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/smoking-woman"/>
+    <title>Smoking Woman</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/22df67b8-8e29-4249-b124-61a8a2cf361a_df612b31-66b7-4916-a99e-871b6130a577.jpg?v=1594684369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/smoking-woman">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take home the Smoking Woman canvas art print and decorate your room with a testament to love. This detailed artwork is immortalized on a canvas with immersive passion and realistic detail. Choose the perfect print size and hanging style to match your room. At NicheCanvas, we believe that art should imitate life and draw on authentic emotions. Our hand-picked Love collection is inspired by romance, passion, and purpose.</p><p><br></p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>girl</s:tag>
+    <s:tag>lady</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>newarrival</s:tag>
+    <s:tag>oil painting</s:tag>
+    <s:tag>smoking</s:tag>
+    <s:tag>woman</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5010819285064</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>JM81UMPV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5010819285064</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>47OJUVBL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5010819285064</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>0Y7T0YK5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5010819285064</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>8BQ2VT7H</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5010819285064</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>KOU1XII7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5010819285064</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>CQND46GW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5010819285064</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>IF3KRP49</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5010819285064</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>OKFME4FO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4640416759880</id>
+    <published>2020-07-10T11:27:26-04:00</published>
+    <updated>2020-07-10T11:27:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/graffiti-lips-johanjjf"/>
+    <title>Graffiti Lips - Johanjjf</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/144905ee-9aba-4f25-b929-a8191a0ceace_7b7a905a-3aea-4b72-87aa-71733290e7c3.jpg?v=1594817258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/graffiti-lips-johanjjf">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take home the Graffiti Lips - Johanjjf canvas art print and decorate your room with a testament to love. This detailed artwork is immortalized on a canvas with immersive passion and realistic detail. Choose the perfect print size and hanging style to match your room. At NicheCanvas, we believe that art should imitate life and draw on authentic emotions. Our hand-picked Love collection is inspired by romance, passion, and purpose.</p><p><br></p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>Johanjjf</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>vendor_johanjjf</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4640416759880</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>WQNV50ZI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4640416759880</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>AARJ67L7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4640416759880</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>XJQ1Q81E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4640416759880</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>5CMX09G3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4640416759880</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>O2AZ2JEM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4640416759880</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>J3DM7JQE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4640416759880</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>3SGSL5X3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4640416759880</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>KM3US7JQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4636666560584</id>
+    <published>2020-07-03T11:28:47-04:00</published>
+    <updated>2020-07-03T11:28:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/field-of-love"/>
+    <title>Field of Love</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/074af4c4-237f-4625-a315-c800114f4480_2dc3e2b1-49ce-4176-ad26-a94582d44d40.jpg?v=1593830437"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/field-of-love">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take home the Field of Love canvas art print and decorate your room with a testament to love. This detailed artwork is immortalized on a canvas with immersive passion and realistic detail. Choose the perfect print size and hanging style to match your room. At NicheCanvas, we believe that art should imitate life and draw on authentic emotions. Our hand-picked Love collection is inspired by romance, passion, and purpose.</p><p><br></p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme5p</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>newarrival</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>Watercolor</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636666560584</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>REZFJ3IN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636666560584</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>CQKM4SCB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4636662988872</id>
+    <published>2020-07-03T11:15:49-04:00</published>
+    <updated>2020-07-03T11:15:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/pink-couple"/>
+    <title>Pink Couple</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/d21cb8b6-069f-4f8e-b506-24f47ac3915a_28c734c7-c7aa-4cac-9b7e-4047afec4ba7.jpg?v=1593830259"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/pink-couple">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take home the Pink Couple canvas art print and decorate your room with a testament to love. This detailed artwork is immortalized on a canvas with immersive passion and realistic detail. Choose the perfect print size and hanging style to match your room. At NicheCanvas, we believe that art should imitate life and draw on authentic emotions. Our hand-picked Love collection is inspired by romance, passion, and purpose.</p><p><br></p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>couple</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>newarrival</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>Watercolor</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636662988872</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>JJRPRYVG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636662988872</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>UTUC61GW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636662988872</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>XFSFHJVK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636662988872</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>D8WSR2D2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636662988872</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>6AF8F1RX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636662988872</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>ZBREHGRN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636662988872</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>VRHUNUZF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636662988872</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>ZSIWQFS8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4636645785672</id>
+    <published>2020-07-03T10:03:08-04:00</published>
+    <updated>2020-07-03T10:03:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/rumba-dancers"/>
+    <title>Rumba Dancers</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/37ac61f1-6de1-43a1-a2c6-15e7d34eada3_7ce104da-2389-4836-bd25-7548c4093e67.jpg?v=1593829238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/rumba-dancers">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take home the Rumba Dancers canvas art print and decorate your room with a testament to love. This detailed artwork is immortalized on a canvas with immersive passion and realistic detail. Choose the perfect print size and hanging style to match your room. At NicheCanvas, we believe that art should imitate life and draw on authentic emotions. Our hand-picked Love collection is inspired by romance, passion, and purpose.</p><p><br></p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>dance</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>newarrival</s:tag>
+    <s:tag>oil painting</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>rumba</s:tag>
+    <s:tag>waltz dancers</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636645785672</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>LWT2UN02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636645785672</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>GQ9IAK3O</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636645785672</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>UZYQ9PO0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636645785672</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>I3HK28M1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636645785672</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>8XK2KQ5G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636645785672</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>E740PZ6V</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636645785672</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>DTRPIK3H</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636645785672</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>F3I2MWMZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4636644343880</id>
+    <published>2020-07-03T09:55:15-04:00</published>
+    <updated>2020-07-03T09:55:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/autumn-walk"/>
+    <title>Autumn Walk</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/22df67b8-8e29-4249-b124-61a8a2cf361a_5ccd12e5-25eb-40ed-bef6-209e3d11ae26.jpg?v=1593829103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/autumn-walk">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take home the Autumn Walk canvas art print and decorate your room with a testament to love. This detailed artwork is immortalized on a canvas with immersive passion and realistic detail. Choose the perfect print size and hanging style to match your room. At NicheCanvas, we believe that art should imitate life and draw on authentic emotions. Our hand-picked Love collection is inspired by romance, passion, and purpose.</p><p><br></p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>autumn</s:tag>
+    <s:tag>couple</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>newarrival</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>walking</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636644343880</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>0O5UZ74T</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636644343880</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>3UC5RUF2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636644343880</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>8KX0LBYB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636644343880</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>KW27NYFM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636644343880</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>QV2THBNO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636644343880</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>EX25TFE6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636644343880</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>YD8IZK0Z</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636644343880</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>OA3QV1IY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4635730968648</id>
+    <published>2020-07-01T11:30:13-04:00</published>
+    <updated>2020-07-01T11:30:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/full-moon-chiara-magni"/>
+    <title>Full Moon - Chiara Magni</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/d21cb8b6-069f-4f8e-b506-24f47ac3915a_5eeb1fe1-3929-4816-8861-64b39f27c8af.jpg?v=1594912579"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/full-moon-chiara-magni">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take home the Full Moon - Chiara Magni canvas art print and decorate your room with a testament to love. This detailed artwork is immortalized on a canvas with immersive passion and realistic detail. Choose the perfect print size and hanging style to match your room. At NicheCanvas, we believe that art should imitate life and draw on authentic emotions. Our hand-picked Love collection is inspired by romance, passion, and purpose.</p><p><br></p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>ChiaraMagni</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>girl</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>oil painting</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>vendor_ChiaraMagni</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4635730968648</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>EAZ7I4UA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4635730968648</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>ZVPLII5V</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4635730968648</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>GUG7ZF3J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4635730968648</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>QE1G0YN5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4635730968648</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>HCXA9TM1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4635730968648</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>6YTJGAWZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4635730968648</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>7O4KM3JW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4635730968648</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>YA2M7D2A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4628135870536</id>
+    <published>2020-06-19T20:48:34-04:00</published>
+    <updated>2020-06-19T20:48:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/sugar-lips-johanjjf"/>
+    <title>Sugar Lips - Johanjjf</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/432dd4f6-02e0-4022-96ea-20c3c42aebb6_1d20e34e-e0ef-41df-a40b-510e4af329b4.jpg?v=1594912350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take home the Sugar Lips - Johanjjf canvas art print and decorate your room with a testament to love. This detailed artwork is immortalized on a canvas with immersive passion and realistic detail. Choose the perfect print size and hanging style to match your room. At NicheCanvas, we believe that art should imitate life and draw on authentic emotions. Our hand-picked Love collection is inspired by romance, passion, and purpose.</p><p><br></p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme3horizontal</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>Johanjjf</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>vendor_johanjjf</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4628135870536</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>12CNAI4T</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4625138516040</id>
+    <published>2020-06-13T14:35:13-04:00</published>
+    <updated>2020-06-13T14:35:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/love-to-infinity"/>
+    <title>Love to Infinity</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/d21cb8b6-069f-4f8e-b506-24f47ac3915a_fa84fab5-5d89-405e-b814-636094fe40f1.jpg?v=1592456377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/love-to-infinity">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take home the Love to Infinity canvas art print and decorate your room with a testament to love. This detailed artwork is immortalized on a canvas with immersive passion and realistic detail. Choose the perfect print size and hanging style to match your room. At NicheCanvas, we believe that art should imitate life and draw on authentic emotions. Our hand-picked Love collection is inspired by romance, passion, and purpose.</p><p><br></p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>couple</s:tag>
+    <s:tag>kiss</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>married</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4625138516040</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>1M58R707</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4625138516040</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>SADFVZ1Y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4625138516040</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>JU6Q9S08</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4625138516040</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>YO3ROUBD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4625138516040</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>K3JUENXW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4625138516040</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>SO3HS8DC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4625138516040</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>5DL9JF28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4625138516040</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>F0OY0B30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4615308509256</id>
+    <published>2020-06-03T21:35:42-04:00</published>
+    <updated>2020-06-03T21:35:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/schick-johanjjf"/>
+    <title>Schick - Johanjjf</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/37ac61f1-6de1-43a1-a2c6-15e7d34eada3_c42155c9-858a-420e-8889-7a204b7b3bf4.jpg?v=1592054513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/schick-johanjjf">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take home the Schick - Johanjjf canvas art print and decorate your room with a testament to love. This detailed artwork is immortalized on a canvas with immersive passion and realistic detail. Choose the perfect print size and hanging style to match your room. At NicheCanvas, we believe that art should imitate life and draw on authentic emotions. Our hand-picked Love collection is inspired by romance, passion, and purpose.</p><p><br></p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>Johanjjf</s:tag>
+    <s:tag>lady</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>vendor_johanjjf</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4615308509256</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>IAHVSUCW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4615308509256</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>3FMVBYDU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4615308509256</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>J9CAAUKK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4615308509256</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>MSGU9JY8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4615308509256</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>K41UYFWQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4615308509256</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>QR24X7F2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4615308509256</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>7VUC26F0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4615308509256</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>M3B64SR1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4615287439432</id>
+    <published>2020-06-03T21:30:27-04:00</published>
+    <updated>2020-06-03T21:30:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/romantic-splendour-johanjjf"/>
+    <title>Romantic Splendour - Johanjjf</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/144905ee-9aba-4f25-b929-a8191a0ceace_2e8a789d-2bab-4bf8-ad21-52adeb379890.jpg?v=1592054459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/romantic-splendour-johanjjf">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take home the Romantic Splendour - Johanjjf canvas art print and decorate your room with a testament to love. This detailed artwork is immortalized on a canvas with immersive passion and realistic detail. Choose the perfect print size and hanging style to match your room. At NicheCanvas, we believe that art should imitate life and draw on authentic emotions. Our hand-picked Love collection is inspired by romance, passion, and purpose.</p><p><br></p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>girl</s:tag>
+    <s:tag>Johanjjf</s:tag>
+    <s:tag>lady</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>vendor_johanjjf</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4615287439432</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>KZPKHB7Z</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4615287439432</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>PHSJ6HRS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4615287439432</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>XI3IV7TT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4615287439432</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>4RCFZW7A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4615287439432</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>I652OA43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4615287439432</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>LHL8SCN0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4615287439432</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>ND40J6XX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4615287439432</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>21893S3C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4612766990408</id>
+    <published>2020-06-01T19:58:28-04:00</published>
+    <updated>2020-06-01T19:58:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/night-time-at-the-fountain-brian-carson"/>
+    <title>Night Time at the Fountain - Brian Carson</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/d21cb8b6-069f-4f8e-b506-24f47ac3915a_d82662e3-1e9e-4541-ad79-05e8a6415054.jpg?v=1592054223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/night-time-at-the-fountain-brian-carson">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take home the Night Time at the Fountain - Brian Carson canvas art print and decorate your room with a testament to love. This detailed artwork is immortalized on a canvas with immersive passion and realistic detail. Choose the perfect print size and hanging style to match your room. At NicheCanvas, we believe that art should imitate life and draw on authentic emotions. Our hand-picked Love collection is inspired by romance, passion, and purpose.</p><p><br></p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>BrianCarson</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>photography</s:tag>
+    <s:tag>vendor_BrianCarson</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4612766990408</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>CLSR04ED</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4612766990408</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>WH1L5ELU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4612766990408</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>P1QSOZMV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4612766990408</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>0A2SUT0V</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4612766990408</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>R0ZCYMSR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4612766990408</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>J9UI7WH0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4612766990408</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>XI8GYXCF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4612766990408</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>Y4X8GG3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4606312415304</id>
+    <published>2020-05-28T12:18:49-04:00</published>
+    <updated>2020-05-28T12:18:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/seductive-blonde-2-johanjjf"/>
+    <title>Seductive Blonde 2 - Johanjjf</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/37ac61f1-6de1-43a1-a2c6-15e7d34eada3_0fb2c92b-f8f0-4a78-a72a-7d0284655863.jpg?v=1592054531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/seductive-blonde-2-johanjjf">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take home the Seductive Blonde 2 - Johanjjf canvas art print and decorate your room with a testament to love. This detailed artwork is immortalized on a canvas with immersive passion and realistic detail. Choose the perfect print size and hanging style to match your room. At NicheCanvas, we believe that art should imitate life and draw on authentic emotions. Our hand-picked Love collection is inspired by romance, passion, and purpose.</p><p><br></p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>Johanjjf</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>vendor_johanjjf</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4606312415304</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>9X7GXKNB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4606312415304</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>HXACZABK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4606312415304</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>WUX0NSUK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4606312415304</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>ZMLRMVW6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4606312415304</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>LAWG40MO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4606312415304</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>LX4CMZG2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4606312415304</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>FX9YSTE6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4606312415304</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>5NUUWSY3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4606305632328</id>
+    <published>2020-05-28T12:11:22-04:00</published>
+    <updated>2020-05-28T12:11:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/seductive-blonde-1-johanjjf"/>
+    <title>Seductive Blonde 1 - Johanjjf</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/37ac61f1-6de1-43a1-a2c6-15e7d34eada3_8f462578-ba9a-4060-aba3-88ab2eee0edb.jpg?v=1592054529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/seductive-blonde-1-johanjjf">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take home the Seductive Blonde 1 - Johanjjf canvas art print and decorate your room with a testament to love. This detailed artwork is immortalized on a canvas with immersive passion and realistic detail. Choose the perfect print size and hanging style to match your room. At NicheCanvas, we believe that art should imitate life and draw on authentic emotions. Our hand-picked Love collection is inspired by romance, passion, and purpose.</p><p><br></p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>Johanjjf</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>vendor_johanjjf</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4606305632328</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>8TRTBVJK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4606305632328</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>TLZSTOL7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4606305632328</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>D8DLQY7E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4606305632328</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>HNY8RCAI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4606305632328</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>KNLCZ2UA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4606305632328</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>6JOG1GXA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4606305632328</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>6QNPZGHJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4606305632328</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>6TJJ810C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4576672022600</id>
+    <published>2020-05-04T17:53:18-04:00</published>
+    <updated>2020-05-04T17:53:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/tempting-johanjjf"/>
+    <title>Tempting - Johanjjf</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/6809a7b9-ec7e-484c-8659-b75aeda4d1dc_66c81f4b-d1ba-4dd4-b8b5-669d66cc9846.jpg?v=1592053405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/tempting-johanjjf">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take home the Tempting - Johanjjf canvas art print and decorate your room with a testament to love. This detailed artwork is immortalized on a canvas with immersive passion and realistic detail. Choose the perfect print size and hanging style to match your room. At NicheCanvas, we believe that art should imitate life and draw on authentic emotions. Our hand-picked Love collection is inspired by romance, passion, and purpose.</p><p><br></p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme5p</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>Johanjjf</s:tag>
+    <s:tag>lip</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>vendor_johanjjf</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576672022600</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>46IYEL39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576672022600</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>6SMWAZ89</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4576572735560</id>
+    <published>2020-05-04T16:24:29-04:00</published>
+    <updated>2020-05-04T16:24:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/seductive-blonde-johanjjf"/>
+    <title>Seductive Blonde 3 - Johanjjf</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/e3c0edf6-5011-48a2-a685-0ed760ea78b1_173424ed-e444-4260-a645-d0d472290966.jpg?v=1592054533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/seductive-blonde-johanjjf">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take home the Seductive Blonde 3 - Johanjjf canvas art print and decorate your room with a testament to love. This detailed artwork is immortalized on a canvas with immersive passion and realistic detail. Choose the perfect print size and hanging style to match your room. At NicheCanvas, we believe that art should imitate life and draw on authentic emotions. Our hand-picked Love collection is inspired by romance, passion, and purpose.</p><p><br></p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>Johanjjf</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>vendor_johanjjf</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576572735560</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>85IHG5QL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576572735560</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>OV56TV1M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576572735560</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>W7K2RPBR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576572735560</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>VOK5YO7Q</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576572735560</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>M45MM85C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576572735560</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>WAAN65E5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576572735560</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>T9LOUGTB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576572735560</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>T2ES5OZO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4576564150344</id>
+    <published>2020-05-04T16:16:36-04:00</published>
+    <updated>2020-05-04T16:16:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/purple-passion-johanjjf"/>
+    <title>Purple Passion - Johanjjf</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/432dd4f6-02e0-4022-96ea-20c3c42aebb6_b4e54d6e-ecc1-483b-ad01-b348db22e6a8.jpg?v=1594912348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take home the Purple Passion - Johanjjf canvas art print and decorate your room with a testament to love. This detailed artwork is immortalized on a canvas with immersive passion and realistic detail. Choose the perfect print size and hanging style to match your room. At NicheCanvas, we believe that art should imitate life and draw on authentic emotions. Our hand-picked Love collection is inspired by romance, passion, and purpose.</p><p><br></p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme3horizontal</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>Johanjjf</s:tag>
+    <s:tag>lip</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>newarrival</s:tag>
+    <s:tag>vendor_johanjjf</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576564150344</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>NRWYG2WP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4576472105032</id>
+    <published>2020-05-04T15:07:38-04:00</published>
+    <updated>2020-05-04T15:07:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/golden-beauty-johanjjf"/>
+    <title>Golden Beauty - Johanjjf</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/37ac61f1-6de1-43a1-a2c6-15e7d34eada3_ade696fb-0e70-463c-8905-ea9b091797a4.jpg?v=1592055568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/golden-beauty-johanjjf">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take home the Golden Beauty - Johanjjf canvas art print and decorate your room with a testament to love. This detailed artwork is immortalized on a canvas with immersive passion and realistic detail. Choose the perfect print size and hanging style to match your room. At NicheCanvas, we believe that art should imitate life and draw on authentic emotions. Our hand-picked Love collection is inspired by romance, passion, and purpose.</p><p><br></p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>beige</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>Johanjjf</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>newarrival</s:tag>
+    <s:tag>vendor_johanjjf</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576472105032</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>ELP6SF8X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576472105032</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>Z969258F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576472105032</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>G3KRK32Q</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576472105032</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>5RKNTUUP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576472105032</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>G9A3JPXO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576472105032</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>G2RUCL6P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576472105032</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>7N56X4PO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4576472105032</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>0AHDX24V</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4450238070856</id>
+    <published>2020-03-05T11:38:31-05:00</published>
+    <updated>2020-03-05T11:38:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/astro-love"/>
+    <title>Astro Love - Alexgraphex</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/99fb3f23-4075-4612-8341-80be5f166c31.jpg?v=1592053105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/astro-love">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take home the Astro Love - Alexgraphex canvas art print and decorate your room with a testament to love. This detailed artwork is immortalized on a canvas with immersive passion and realistic detail. Choose the perfect print size and hanging style to match your room. At NicheCanvas, we believe that art should imitate life and draw on authentic emotions. Our hand-picked Love collection is inspired by romance, passion, and purpose.</p><p><br></p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>alexgraphex</s:tag>
+    <s:tag>astronaut</s:tag>
+    <s:tag>astronauts</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>newarrival</s:tag>
+    <s:tag>space</s:tag>
+    <s:tag>vendor_alexgraphex</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4450238070856</id>
+      <title>canvas / small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>Y2EJYP2J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4450238070856</id>
+      <title>canvas / medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>FDLU23RT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4450238070856</id>
+      <title>canvas / large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>OGMHW9PP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4450238070856</id>
+      <title>canvas / huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>8YZMIIJ0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4450238070856</id>
+      <title>floating frame / small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>TF3MGOCH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4450238070856</id>
+      <title>floating frame / medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>TSRQBNAO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4450238070856</id>
+      <title>floating frame / large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>RAX15W79</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4450238070856</id>
+      <title>floating frame / huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>5F31XWRX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4480863109192</id>
+    <published>2020-02-23T21:45:32-05:00</published>
+    <updated>2020-02-23T21:45:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/love-fairy-tale"/>
+    <title>Love Fairy Tale</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/eaaeeda3-a719-4f4c-b549-704a308c2a05.jpg?v=1592054465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/love-fairy-tale">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take home the Love Fairy Tale canvas art print and decorate your room with a testament to love. This detailed artwork is immortalized on a canvas with immersive passion and realistic detail. Choose the perfect print size and hanging style to match your room. At NicheCanvas, we believe that art should imitate life and draw on authentic emotions. Our hand-picked Love collection is inspired by romance, passion, and purpose.</p><p><br></p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>oil painting</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>pink and purple</s:tag>
+    <s:tag>purple</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4480863109192</id>
+      <title>canvas / small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>Q0M3BPCI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4480863109192</id>
+      <title>floating frame / small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>9ED4M5VF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4480863109192</id>
+      <title>canvas / medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>HO1HAQL1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4480863109192</id>
+      <title>floating frame / medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>65LUW0O3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4480863109192</id>
+      <title>canvas / large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>CIS04970</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4480863109192</id>
+      <title>floating frame / large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>8YP2AV1D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4480863109192</id>
+      <title>canvas / huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>HOBM5VYG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4480863109192</id>
+      <title>floating frame / huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>KRPZHIWH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4480806682696</id>
+    <published>2020-02-23T19:34:48-05:00</published>
+    <updated>2020-02-23T19:34:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/kissing-under-the-stars"/>
+    <title>Kissing Under the Stars</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/22df67b8-8e29-4249-b124-61a8a2cf361a_b32a378e-2ac5-41bf-b131-127d8e1ffbed.jpg?v=1592456365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/kissing-under-the-stars">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take home the Kissing Under the Stars canvas art print and decorate your room with a testament to love. This detailed artwork is immortalized on a canvas with immersive passion and realistic detail. Choose the perfect print size and hanging style to match your room. At NicheCanvas, we believe that art should imitate life and draw on authentic emotions. Our hand-picked Love collection is inspired by romance, passion, and purpose.</p><p><br></p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>black and blue</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>kiss</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>Watercolor</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4480806682696</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>QE2Y4UKE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4480806682696</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>Y5X7COHI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4480806682696</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>CQ6R8RJ1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4480806682696</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>29OTW0Y7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4480806682696</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>G0C1PFZC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4480806682696</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>1ON8HVWA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4480806682696</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>513YQZW1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4480806682696</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>I4X2MYH3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4480155844680</id>
+    <published>2020-02-22T18:30:16-05:00</published>
+    <updated>2020-02-22T18:30:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/married-for-eternity"/>
+    <title>Married for Eternity</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/4d980d09-1fc0-4a74-95bf-3cb1c5d0e8fc.jpg?v=1592054048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/married-for-eternity">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take home the Married for Eternity canvas art print and decorate your room with a testament to love. This detailed artwork is immortalized on a canvas with immersive passion and realistic detail. Choose the perfect print size and hanging style to match your room. At NicheCanvas, we believe that art should imitate life and draw on authentic emotions. Our hand-picked Love collection is inspired by romance, passion, and purpose.</p><p><br></p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>dark fantasy</s:tag>
+    <s:tag>haloween</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>skeleton</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4480155844680</id>
+      <title>canvas / small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>2XZXOVCX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4480155844680</id>
+      <title>floating frame / small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>GKQ8UHG8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4480155844680</id>
+      <title>canvas / medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>VS1MKJKZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4480155844680</id>
+      <title>floating frame / medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>807HMYLR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4480155844680</id>
+      <title>canvas / large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>87TL68RG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4480155844680</id>
+      <title>floating frame / large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>6I0EBZ0E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4480155844680</id>
+      <title>canvas / huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>B3LV7D0L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4480155844680</id>
+      <title>floating frame / huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>MIHXCU9G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/1345910833224</id>
+    <published>2020-02-12T16:40:57-05:00</published>
+    <updated>2020-02-12T16:40:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/the-lady-with-a-hat"/>
+    <title>The Lady With a Hat</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/8c48ccd3-01e7-475c-bf43-32b6c6e87960.jpg?v=1592053468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/the-lady-with-a-hat">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take home the The Lady With a Hat canvas art print and decorate your room with a testament to love. This detailed artwork is immortalized on a canvas with immersive passion and realistic detail. Choose the perfect print size and hanging style to match your room. At NicheCanvas, we believe that art should imitate life and draw on authentic emotions. Our hand-picked Love collection is inspired by romance, passion, and purpose.</p><p><br></p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme5p</s:tag>
+    <s:tag>ADELDEC18</s:tag>
+    <s:tag>dim1</s:tag>
+    <s:tag>heart</s:tag>
+    <s:tag>lady</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>liste71</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>other</s:tag>
+    <s:tag>purple</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/1345910833224</id>
+      <title>large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>9SC8BJFT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/1345910833224</id>
+      <title>huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>LB05T8X9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4472133877832</id>
+    <published>2020-02-11T13:29:46-05:00</published>
+    <updated>2020-02-11T13:29:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/love-is-all-you-need"/>
+    <title>Love is all you need</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/92b81fe2-eb9d-423e-ae26-7d65251d24d1.jpg?v=1592054468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/love-is-all-you-need">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take home the Love is all you need canvas art print and decorate your room with a testament to love. This detailed artwork is immortalized on a canvas with immersive passion and realistic detail. Choose the perfect print size and hanging style to match your room. At NicheCanvas, we believe that art should imitate life and draw on authentic emotions. Our hand-picked Love collection is inspired by romance, passion, and purpose.</p><p><br></p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>multicolor</s:tag>
+    <s:tag>multicolors</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4472133877832</id>
+      <title>canvas / small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>AIEYKDJ2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4472133877832</id>
+      <title>canvas / medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>ZRC6LIV7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4472133877832</id>
+      <title>canvas / large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>7GACUUSK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4472133877832</id>
+      <title>canvas / huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>7EDG98PU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4472133877832</id>
+      <title>floating frame / small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>69FO42JS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4472133877832</id>
+      <title>floating frame / medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>RGJRP13W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4472133877832</id>
+      <title>floating frame / large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>A71GDDGY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4472133877832</id>
+      <title>floating frame / huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>63UXDZRW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

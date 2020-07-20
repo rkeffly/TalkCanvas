@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+nichecanvas.com	TRUE	/	FALSE	1999999999	_shopify_country	Nigeria
+nichecanvas.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+nichecanvas.com	TRUE	/	FALSE	1999999999	_secure_session_id	0c337a9dcc3c7b03c00ceb29071b0fe4
+.nichecanvas.com	TRUE	/	FALSE	1999999999	__cfduid	d4feba3455bef612a6690b259b7caa2321595037766
+nichecanvas.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+nichecanvas.com	TRUE	/	FALSE	1999999999	_y	4e7fa68b-9c5d-4c70-bd7d-8fc44e120957
+nichecanvas.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+nichecanvas.com	TRUE	/	FALSE	1999999999	cart_ver	%3A0
+nichecanvas.com	TRUE	/	FALSE	1999999999	_shopify_y	4e7fa68b-9c5d-4c70-bd7d-8fc44e120957
+

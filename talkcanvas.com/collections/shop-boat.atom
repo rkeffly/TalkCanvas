@@ -1,0 +1,2095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://nichecanvas.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://nichecanvas.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://nichecanvas.com/collections/shop-boat.atom"/>
+  <title>NicheCanvas</title>
+  <updated>2020-07-17T14:12:55-04:00</updated>
+  <author>
+    <name>NicheCanvas</name>
+  </author>
+  <entry>
+    <id>https://nichecanvas.com/products/5235738312776</id>
+    <published>2020-07-17T14:12:55-04:00</published>
+    <updated>2020-07-17T14:12:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/shore-ben-heine"/>
+    <title>Shore - Ben Heine</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/144905ee-9aba-4f25-b929-a8191a0ceace_5d1e8ddd-47eb-42e2-ae96-008fce260ad4.jpg?v=1595030120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/shore-ben-heine">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>BenHeine</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>Boat</s:tag>
+    <s:tag>boats</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>photography</s:tag>
+    <s:tag>vendor_BenHeine</s:tag>
+    <s:tag>water</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235738312776</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>JQU0RL29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235738312776</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>354COHHY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235738312776</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>1TVEOKKQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235738312776</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>IH4ZKOY1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235738312776</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>BSNPC9SN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235738312776</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>SC0G45S7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235738312776</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>YF33PBJS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5235738312776</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>M95LUP9Z</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5011505414216</id>
+    <published>2020-07-14T14:10:32-04:00</published>
+    <updated>2020-07-14T14:10:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/zakynthos-5-panels-alexandre-venancio"/>
+    <title>Zakynthos 5 Panels - Alexandre Venancio</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/6809a7b9-ec7e-484c-8659-b75aeda4d1dc_4e277263-038c-4aef-ab47-01cae5aff481.jpg?v=1594820497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/zakynthos-5-panels-alexandre-venancio">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>﻿Zakynthos 5 Panels - Alexandre Venancio﻿ was created by one of the industry leaders and best-selling artists in our Featured Artists Category. The picture offers an etherial view of the world with mesmerizing color and depth. Our artists create art with a unique perspective that is perfectly suited to canvas art prints and home décor.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme5p</s:tag>
+    <s:tag>AlexandreVenancio</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>Boat</s:tag>
+    <s:tag>boats</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>greece</s:tag>
+    <s:tag>photography</s:tag>
+    <s:tag>tropical landscape</s:tag>
+    <s:tag>vendor_AlexandreVenancio</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011505414216</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>LAFHA0WX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011505414216</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>SU7V744R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5011494666312</id>
+    <published>2020-07-14T13:54:51-04:00</published>
+    <updated>2020-07-14T13:54:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/zakynthos-alexandre-venancio"/>
+    <title>Zakynthos - Alexandre Venancio</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/d21cb8b6-069f-4f8e-b506-24f47ac3915a_983010d0-a4b8-4de5-9805-5bacea0625c2.jpg?v=1594820467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/zakynthos-alexandre-venancio">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>﻿Zakynthos - Alexandre Venancio﻿ was created by one of the industry leaders and best-selling artists in our Featured Artists Category. The picture offers an etherial view of the world with mesmerizing color and depth. Our artists create art with a unique perspective that is perfectly suited to canvas art prints and home décor.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>AlexandreVenancio</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>Boat</s:tag>
+    <s:tag>boats</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>fishing boat</s:tag>
+    <s:tag>greece</s:tag>
+    <s:tag>photography</s:tag>
+    <s:tag>tropical landscape</s:tag>
+    <s:tag>vendor_AlexandreVenancio</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011494666312</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>ACKGANJG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011494666312</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>H68XY3NM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011494666312</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>9BUTL797</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011494666312</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>8PF20S7C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011494666312</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>NHDQW03O</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011494666312</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>9X40AWKR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011494666312</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>LVH6M4BA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011494666312</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>621ITNE4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5011490242632</id>
+    <published>2020-07-14T13:49:04-04:00</published>
+    <updated>2020-07-14T13:49:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/santorini-boat-alexandre-venancio"/>
+    <title>Santorini Boat - Alexandre Venancio</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/22df67b8-8e29-4249-b124-61a8a2cf361a_5371320a-183e-4f29-beea-59446a0a614e.jpg?v=1594820325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/santorini-boat-alexandre-venancio">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>﻿Santorini Boat - Alexandre Venancio﻿ was created by one of the industry leaders and best-selling artists in our Featured Artists Category. The picture offers an etherial view of the world with mesmerizing color and depth. Our artists create art with a unique perspective that is perfectly suited to canvas art prints and home décor.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>AlexandreVenancio</s:tag>
+    <s:tag>blue and white</s:tag>
+    <s:tag>boat</s:tag>
+    <s:tag>boats</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>greece</s:tag>
+    <s:tag>photography</s:tag>
+    <s:tag>vendor_AlexandreVenancio</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011490242632</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>WXCZ2V3O</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011490242632</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>KHMHY3Y0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011490242632</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>C7V8LYT4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011490242632</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>W5L3V7LJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011490242632</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>3KD96HHD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011490242632</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>LU314T31</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011490242632</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>041WHNIW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011490242632</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>BO6JFAAP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5011476119624</id>
+    <published>2020-07-14T13:03:36-04:00</published>
+    <updated>2020-07-14T13:03:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/kefalonia-and-zakynthos-alexandre-venancio"/>
+    <title>Kefalonia and Zakynthos - Alexandre Venancio</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/22df67b8-8e29-4249-b124-61a8a2cf361a_2fce4c83-d793-4d50-820a-b5a1ec1a484d.jpg?v=1594819260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/kefalonia-and-zakynthos-alexandre-venancio">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>﻿Kefalonia and Zakynthos - Alexandre Venancio﻿ was created by one of the industry leaders and best-selling artists in our Featured Artists Category. The picture offers an etherial view of the world with mesmerizing color and depth. Our artists create art with a unique perspective that is perfectly suited to canvas art prints and home décor.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>AlexandreVenancio</s:tag>
+    <s:tag>beach</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>boat</s:tag>
+    <s:tag>boats</s:tag>
+    <s:tag>brown</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>greece</s:tag>
+    <s:tag>photography</s:tag>
+    <s:tag>ship</s:tag>
+    <s:tag>ships</s:tag>
+    <s:tag>vendor_AlexandreVenancio</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011476119624</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>VBINS2EU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011476119624</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>M2K0TTAM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011476119624</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>VF98219I</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011476119624</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>LB77DWR6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011476119624</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>Z4DBV50V</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011476119624</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>G5H7C044</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011476119624</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>3CCI5GHU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011476119624</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>TKVUASD5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5011433095240</id>
+    <published>2020-07-14T11:08:55-04:00</published>
+    <updated>2020-07-14T11:08:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/dazzling-capri-l-alexandre-venancio"/>
+    <title>Dazzling Capri L - Alexandre Venancio</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/d21cb8b6-069f-4f8e-b506-24f47ac3915a_5e434086-ac6f-4cc9-a29b-8c7ee5e3ca6e.jpg?v=1594817805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/dazzling-capri-l-alexandre-venancio">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>﻿Dazzling Capri L - Alexandre Venancio﻿ was created by one of the industry leaders and best-selling artists in our Featured Artists Category. The picture offers an etherial view of the world with mesmerizing color and depth. Our artists create art with a unique perspective that is perfectly suited to canvas art prints and home décor.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>AlexandreVenancio</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>Boat</s:tag>
+    <s:tag>boats</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>greece</s:tag>
+    <s:tag>Landscape</s:tag>
+    <s:tag>photography</s:tag>
+    <s:tag>vendor_AlexandreVenancio</s:tag>
+    <s:tag>water</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011433095240</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>AHNCFKIY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011433095240</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>3CAY37LW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011433095240</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>9LUP5AWP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011433095240</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>MGIWEGPH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011433095240</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>EQYBDLRC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011433095240</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>TQHRNRV9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011433095240</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>89HNBBTE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5011433095240</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>CI07M4UQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/5010810601544</id>
+    <published>2020-07-13T16:17:36-04:00</published>
+    <updated>2020-07-13T16:17:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/two-sailboats"/>
+    <title>Two Sailboats</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/144905ee-9aba-4f25-b929-a8191a0ceace_d2552c05-2cf1-4c31-8222-81abe147dd59.jpg?v=1594684014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/two-sailboats">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>boat</s:tag>
+    <s:tag>boats</s:tag>
+    <s:tag>light blue</s:tag>
+    <s:tag>oil painting</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>sailboat</s:tag>
+    <s:tag>sailing ship</s:tag>
+    <s:tag>sailship</s:tag>
+    <s:tag>ship</s:tag>
+    <s:tag>ships</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5010810601544</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>IKBXQO2F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5010810601544</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>GKUF9U0U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5010810601544</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>AZEE2T8A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5010810601544</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>0XNKG2TO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5010810601544</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>WJ3RSC8M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5010810601544</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>9UMW70M6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5010810601544</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>96YO95O9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/5010810601544</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>B6WXNLFM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4636656369736</id>
+    <published>2020-07-03T11:05:48-04:00</published>
+    <updated>2020-07-03T11:05:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/fishing-pier-1"/>
+    <title>Fishing Pier</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/d21cb8b6-069f-4f8e-b506-24f47ac3915a_95aeb0f0-4942-45fb-9962-d19abb556f62.jpg?v=1593829940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/fishing-pier-1">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>Boat</s:tag>
+    <s:tag>boats</s:tag>
+    <s:tag>fishing boat</s:tag>
+    <s:tag>newarrival</s:tag>
+    <s:tag>Watercolor</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636656369736</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>LSG4ZJJ4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636656369736</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>U02F6V2Q</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636656369736</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>5XHYXNPR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636656369736</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>VUCZ8EXZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636656369736</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>NTSM4SAY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636656369736</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>Y0LZLUR3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636656369736</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>699TBJHO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4636656369736</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>66ON5QG4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4607383568456</id>
+    <published>2020-05-29T17:07:40-04:00</published>
+    <updated>2020-05-29T17:07:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/elysium-2-alexgraphex"/>
+    <title>Elysium 2 - Alexgraphex</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/37ac61f1-6de1-43a1-a2c6-15e7d34eada3_ce3692c9-ef0d-4dee-8d03-9ea5ac083973.jpg?v=1592055288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/elysium-2-alexgraphex">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>﻿Elysium 2 - Alexgraphex﻿ was created by one of the industry leaders and best-selling artists in our Featured Artists Category. The picture offers an etherial view of the world with mesmerizing color and depth. Our artists create art with a unique perspective that is perfectly suited to canvas art prints and home décor.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>alexgraphex</s:tag>
+    <s:tag>boat</s:tag>
+    <s:tag>canoe</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>vendor_alexgraphex</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4607383568456</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>D37CAXZS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4607383568456</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>2TNAGG0K</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4607383568456</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>528U9G5F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4607383568456</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>CWKVFF59</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4607383568456</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>2N2YM3B4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4607383568456</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>P8CDK9II</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4607383568456</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>TYFCK5KL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4607383568456</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>KFDLDIA5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4595273203784</id>
+    <published>2020-05-15T20:58:27-04:00</published>
+    <updated>2020-05-15T20:58:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/trading-ship"/>
+    <title>Trading Ship</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/d21cb8b6-069f-4f8e-b506-24f47ac3915a_4696498f-50b6-4d9d-9390-f68a3e801a41.jpg?v=1592053538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/trading-ship">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>blue and purple</s:tag>
+    <s:tag>Boat</s:tag>
+    <s:tag>boats</s:tag>
+    <s:tag>newarrival</s:tag>
+    <s:tag>oil painting</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>sailboat</s:tag>
+    <s:tag>sailing ship</s:tag>
+    <s:tag>sailship</s:tag>
+    <s:tag>ship</s:tag>
+    <s:tag>ships</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4595273203784</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>N9DI9SVL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4595273203784</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>SKRAZBAU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4595273203784</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>K7L4LGEI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4595273203784</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>TYIPJE4Z</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4595273203784</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>1RPBNA3L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4595273203784</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>6ERM6ISZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4595273203784</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>F6A7QCWK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4595273203784</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>5DU3DDUX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4498396250184</id>
+    <published>2020-03-14T18:35:06-04:00</published>
+    <updated>2020-03-14T18:35:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/the-kraken"/>
+    <title>The Kraken</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/1082f6a6-168a-4234-84ee-6b1d825dcfaa.jpg?v=1592053465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/the-kraken">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">OUR PRINTS We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas. OUR STRETCHER BARS We use 1.25" thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall. OUR FLOATING FRAMES Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a perfect finish without chipping. Matte black finish.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>boat</s:tag>
+    <s:tag>boats</s:tag>
+    <s:tag>dark fantasy</s:tag>
+    <s:tag>newarrival</s:tag>
+    <s:tag>tentacle</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4498396250184</id>
+      <title>canvas / small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>H0EDAZHB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4498396250184</id>
+      <title>floating frame / small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>POYRKLRT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4498396250184</id>
+      <title>canvas / medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>4P7Q5VIR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4498396250184</id>
+      <title>floating frame / medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>ZIJSCUMX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4498396250184</id>
+      <title>canvas / large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>FDQEC72A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4498396250184</id>
+      <title>floating frame / large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>8WL7C7T9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4498396250184</id>
+      <title>canvas / huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>FCOXO8J0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4498396250184</id>
+      <title>floating frame / huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>VDYP3POK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4498392219720</id>
+    <published>2020-03-14T18:29:35-04:00</published>
+    <updated>2020-03-14T18:29:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/sailing-under-the-giant-moon"/>
+    <title>Sailing Under the Giant Moon</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/10f72f6c-8d0b-4515-9b9f-af6db672c113.jpg?v=1592054490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/sailing-under-the-giant-moon">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">OUR PRINTS We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas. OUR STRETCHER BARS We use 1.25" thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall. OUR FLOATING FRAMES Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a perfect finish without chipping. Matte black finish.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>boat</s:tag>
+    <s:tag>boats</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>moon</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4498392219720</id>
+      <title>canvas / small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>TBJ5MNNG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4498392219720</id>
+      <title>floating frame / small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>C2T19RAD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4498392219720</id>
+      <title>canvas / medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>I9RB07PO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4498392219720</id>
+      <title>floating frame / medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>P0SQ1EMA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4498392219720</id>
+      <title>canvas / large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>04H0GXQE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4498392219720</id>
+      <title>floating frame / large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>4IYLOS5C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4498392219720</id>
+      <title>canvas / huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>ASP0BRHI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4498392219720</id>
+      <title>floating frame / huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>9FKWDRCT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4498386124872</id>
+    <published>2020-03-14T18:20:55-04:00</published>
+    <updated>2020-03-14T18:20:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/sailing-world"/>
+    <title>Sailing World</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/07e762a6-4824-475a-89c1-a8980dcdb597.jpg?v=1592054491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">OUR PRINTS We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas. OUR STRETCHER BARS We use 1.25" thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall. OUR FLOATING FRAMES Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a perfect finish without chipping. Matte black finish.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme3horizontal</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>Boat</s:tag>
+    <s:tag>boats</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>fantasy</s:tag>
+    <s:tag>planet</s:tag>
+    <s:tag>planets</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4498386124872</id>
+      <title>canvas / huge</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>A8HHVGGO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4490568925256</id>
+    <published>2020-03-05T19:39:21-05:00</published>
+    <updated>2020-03-05T19:39:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/stockholm-skyline"/>
+    <title>Stockholm Skyline</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/6809a7b9-ec7e-484c-8659-b75aeda4d1dc_aa0f7757-60c6-461e-9f7c-39216a60b67b.jpg?v=1592054670"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/stockholm-skyline">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme5p</s:tag>
+    <s:tag>boat</s:tag>
+    <s:tag>boats</s:tag>
+    <s:tag>city</s:tag>
+    <s:tag>multicolor</s:tag>
+    <s:tag>multicolors</s:tag>
+    <s:tag>photography</s:tag>
+    <s:tag>Stockholm</s:tag>
+    <s:tag>sweden</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490568925256</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>EM0LFX3W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490568925256</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>KNCPLBH7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4490552508488</id>
+    <published>2020-03-05T19:20:32-05:00</published>
+    <updated>2020-03-05T19:20:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/copenhagen-port"/>
+    <title>Copenhagen Port</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/25e8fca9-001c-4297-a319-c834b9f21eb2.jpg?v=1592056102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">OUR PRINTS We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas. OUR STRETCHER BARS We use 1.25" thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall. OUR FLOATING FRAMES Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a perfect finish without chipping. Matte black finish.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme3horizontal</s:tag>
+    <s:tag>Boat</s:tag>
+    <s:tag>boats</s:tag>
+    <s:tag>Copenhagen</s:tag>
+    <s:tag>Denmark</s:tag>
+    <s:tag>multicolor</s:tag>
+    <s:tag>multicolors</s:tag>
+    <s:tag>oil painting</s:tag>
+    <s:tag>sailboat</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4490552508488</id>
+      <title>canvas / huge</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>AZG0U7MJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4450218246216</id>
+    <published>2020-03-05T11:26:49-05:00</published>
+    <updated>2020-03-05T11:26:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/giant-whale"/>
+    <title>Giant Whale - Alexgraphex</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/22df67b8-8e29-4249-b124-61a8a2cf361a_042b7fbc-ac59-49bf-b1da-322ff36d9125.jpg?v=1594912277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/giant-whale">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Live on the wild side. This handcrafted wall art highlights the beauty and distinct personality of your favorite animal. Giant Whale - Alexgraphex gives you an up close view of a fierce animal across a premium canvas print. With a colorful palette and exquisite attention to detail, the artist was able to capture a unique view of the animal kingdom.</p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>alexgraphex</s:tag>
+    <s:tag>animal</s:tag>
+    <s:tag>animals</s:tag>
+    <s:tag>boat</s:tag>
+    <s:tag>boats</s:tag>
+    <s:tag>featured artist</s:tag>
+    <s:tag>featuredartist</s:tag>
+    <s:tag>newarrival</s:tag>
+    <s:tag>turquoise</s:tag>
+    <s:tag>vendor_alexgraphex</s:tag>
+    <s:tag>whale</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4450218246216</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>3Y706VMP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4450218246216</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>SO3WRLP5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4450218246216</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>PZCRCW7Q</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4450218246216</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>PKQJLC1R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4450218246216</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>4A3RWA8Z</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4450218246216</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>64N4RNAR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4450218246216</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>184H1VQC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4450218246216</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>TBTVON14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4485390139464</id>
+    <published>2020-02-28T12:31:51-05:00</published>
+    <updated>2020-02-28T12:31:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/traditional-fishing"/>
+    <title>Traditional Fishing</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/fbebbbfc-de05-4771-ae17-728067370fc9.jpg?v=1592053543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">OUR PRINTS We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas. OUR STRETCHER BARS We use 1.25" thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall. OUR FLOATING FRAMES Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a perfect finish without chipping. Matte black finish.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme3horizontal</s:tag>
+    <s:tag>Boat</s:tag>
+    <s:tag>photography</s:tag>
+    <s:tag>teal</s:tag>
+    <s:tag>water</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4485390139464</id>
+      <title>canvas / huge</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>UBQXMJZM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4481964769352</id>
+    <published>2020-02-24T16:15:38-05:00</published>
+    <updated>2020-02-24T16:15:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/viking-ghost-ship"/>
+    <title>Viking Ghost Ship</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/2790e4ee-aadb-4027-8f00-23234595132c.jpg?v=1592053607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">OUR PRINTS We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas. OUR STRETCHER BARS We use 1.25" thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall. OUR FLOATING FRAMES Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a perfect finish without chipping. Matte black finish.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme3vertical</s:tag>
+    <s:tag>black and blue</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>Boat</s:tag>
+    <s:tag>boats</s:tag>
+    <s:tag>ship</s:tag>
+    <s:tag>viking</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4481964769352</id>
+      <title>canvas / huge</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>F2QX0HSV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4480789413960</id>
+    <published>2020-02-23T18:54:36-05:00</published>
+    <updated>2020-02-23T18:54:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/italian-sea-coast"/>
+    <title>Italian Sea Coast</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/6809a7b9-ec7e-484c-8659-b75aeda4d1dc_b849b540-56a0-4ec5-9aae-ae94ee0161f4.jpg?v=1592054260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/italian-sea-coast">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Step into a whole new world. This striking piece of wall art is designed by a best-selling artist and handcrafted with the highest quality materials. Italian Sea Coast transports you around the world with breathtaking color and clarity spread across multiple canvases. The artist’s style draws you in with a unique perspective. Italian Sea Coast is part of our Landscape Collection, and it will create a stunning focal point on your walls.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme5p</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>Boat</s:tag>
+    <s:tag>boats</s:tag>
+    <s:tag>Italy</s:tag>
+    <s:tag>landscape</s:tag>
+    <s:tag>tropical landscape</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4480789413960</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>6GQKOAOS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4480789413960</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>L5OIQUF9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4454996475976</id>
+    <published>2020-01-24T15:01:33-05:00</published>
+    <updated>2020-01-24T15:01:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/portofino-italy"/>
+    <title>Portofino, Italy</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/6809a7b9-ec7e-484c-8659-b75aeda4d1dc_e556c6f9-3e87-497c-9ad1-8515c5e94e1f.jpg?v=1592054405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/portofino-italy">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme5p</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>boat</s:tag>
+    <s:tag>boats</s:tag>
+    <s:tag>city</s:tag>
+    <s:tag>Italy</s:tag>
+    <s:tag>photography</s:tag>
+    <s:tag>portofino</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4454996475976</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>GT31XZNZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4454996475976</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>DZ5WEJ3Z</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4437389836360</id>
+    <published>2020-01-07T10:24:03-05:00</published>
+    <updated>2020-01-07T10:24:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/fishing-pier"/>
+    <title>Fishing Pier</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/144905ee-9aba-4f25-b929-a8191a0ceace_b743d48d-bbb9-41c8-8cf0-cee97d8e46a3.jpg?v=1593060437"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/fishing-pier">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>Boat</s:tag>
+    <s:tag>boats</s:tag>
+    <s:tag>brown</s:tag>
+    <s:tag>fishing</s:tag>
+    <s:tag>oil painting</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4437389836360</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>TLJMO6FN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4437389836360</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>F1WE5C6O</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4437389836360</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>DRVF4T4U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4437389836360</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>2AMTK48S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4437389836360</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>Z0S5PWTH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4437389836360</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>L9HH3072</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4437389836360</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>DXMZ2461</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4437389836360</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>CXBEAXOO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4437325512776</id>
+    <published>2020-01-07T09:42:59-05:00</published>
+    <updated>2020-01-07T09:42:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/fishing-boats"/>
+    <title>Fishing Boats</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/feb62a82-caa4-4280-b897-011f8e1eaed8_14afd329-7a79-440a-8301-1a941f843ac8.jpg?v=1594912244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/fishing-boats">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>boat</s:tag>
+    <s:tag>boats</s:tag>
+    <s:tag>fishing</s:tag>
+    <s:tag>oil painting</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>ship</s:tag>
+    <s:tag>ships</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4437325512776</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>NKH8J5PA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4437325512776</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>K5NVX1OD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4437325512776</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>I39YGMQA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4437325512776</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>R562Y8B9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4437325512776</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>0ELA8PAV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4437325512776</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>7F0Q0DRU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4437325512776</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>7NHANC4P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4437325512776</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>WP6ZDKTI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4417632206920</id>
+    <published>2019-12-18T16:24:35-05:00</published>
+    <updated>2019-12-18T16:24:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/red-sails-under-the-stars"/>
+    <title>Red Sails Under the Stars</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/023c73a9-fb21-4365-b1c9-d58d3c659234.jpg?v=1592054416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/red-sails-under-the-stars">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">OUR PRINTS We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas. OUR STRETCHER BARS We use 1.25" thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall. OUR FLOATING FRAMES Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a perfect finish without chipping. Matte black finish.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>Boat</s:tag>
+    <s:tag>boats</s:tag>
+    <s:tag>sailboat</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4417632206920</id>
+      <title>canvas / small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>KL7I0PVE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4417632206920</id>
+      <title>canvas / medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>G9J8DP9V</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4417632206920</id>
+      <title>canvas / large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>7HYUOTPQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4417632206920</id>
+      <title>canvas / huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>4KOKIO8W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4417632206920</id>
+      <title>floating frame / small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>8A6R7BNF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4417632206920</id>
+      <title>floating frame / medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>4DXM7GYP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4417632206920</id>
+      <title>floating frame / large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>6X1NQH59</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4417632206920</id>
+      <title>floating frame / huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>YAO7GORB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4417555169352</id>
+    <published>2019-12-18T15:11:20-05:00</published>
+    <updated>2019-12-18T15:11:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/white-sails"/>
+    <title>White Sails</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/22df67b8-8e29-4249-b124-61a8a2cf361a_906d09b1-b898-4126-a43c-5e0c5fd94cff.jpg?v=1594912042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/white-sails">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>boat</s:tag>
+    <s:tag>boats</s:tag>
+    <s:tag>oil painting</s:tag>
+    <s:tag>sailboat</s:tag>
+    <s:tag>sailship</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4417555169352</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>9YGLUJVD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4417555169352</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>YCUEI4NW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4417555169352</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>SKPW1YA6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4417555169352</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>CJE3GYEE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4417555169352</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>JN9SR0CY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4417555169352</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>HRH9XXND</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4417555169352</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>E2YP30JC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4417555169352</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>CIRVSR5D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4417540948040</id>
+    <published>2019-12-18T15:03:31-05:00</published>
+    <updated>2019-12-18T15:03:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/yacht-racing"/>
+    <title>Yacht Racing</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/22df67b8-8e29-4249-b124-61a8a2cf361a_99670c87-722a-4536-9925-edbb73a6e3ee.jpg?v=1594912039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/yacht-racing">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>OUR PRINTS</h3>
+<p>We employ the use of UL Certified Greenguard Gold Ink for every print which provides not only a great quality pigment but also makes the 
+canvas; water, fade, scratch and crack resistant. We produce perfect genuine artist quality canvas.</p>
+<h3>OUR STRETCHER BARS</h3>
+<p>We use 1.25' thick FSC Certified warp-free, knot-free, kiln-dried wood from sustainable forests. The frames are finger-jointed for better
+strength. Every canvas is ready to hang with metal sawtooth hangers and rubber bumpers for a smooth fit on your wall.</p>
+<h3>OUR FLOATING FRAMES</h3>
+<p>Our Roma Mouldings are made from 100% real pine wood, professionally handcrafted in Italy. Every frame is sanded five times to ensure a 
+perfect finish without chipping. Matte black finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmevertical</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>boat</s:tag>
+    <s:tag>boats</s:tag>
+    <s:tag>oil painting</s:tag>
+    <s:tag>sailboat</s:tag>
+    <s:tag>sailing ship</s:tag>
+    <s:tag>sailship</s:tag>
+    <s:tag>ship</s:tag>
+    <s:tag>ships</s:tag>
+    <s:tag>Yacht racing</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4417540948040</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>ZBS5CVDS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4417540948040</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>PW2X677Q</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4417540948040</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>ORFRZHCX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4417540948040</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>BP7R9F2R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4417540948040</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>IYN5B2N1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4417540948040</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>3N43M5T5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4417540948040</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>QUYS0CPC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4417540948040</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>L87OMPE2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

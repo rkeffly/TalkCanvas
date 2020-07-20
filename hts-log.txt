@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 18 Jul 2020 22:17:42 at https://nichecanvas.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://nichecanvas.com -O1 "C:\bho_ye\TOYE SITE" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:18:07	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 2 retries at link https://nichecanvas.com/robots.txt (from primary/primary)
+22:18:07	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://nichecanvas.com/ (from primary/primary)
+22:18:22	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://nichecanvas.com/ (from primary/primary)
+22:18:38	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 2 retries at link https://nichecanvas.com/ (from primary/primary)
+22:18:38	Warning: 	No data seems to have been transferred during this session! : restoring previous one!

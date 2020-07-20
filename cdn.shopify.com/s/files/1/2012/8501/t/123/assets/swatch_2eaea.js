@@ -1,0 +1,1 @@
+jQuery('.swatch-element').removeClass('soldout').addClass('available').find(':radio').removeAttr('disabled');

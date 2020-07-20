@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://nichecanvas.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://nichecanvas.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://nichecanvas.com/collections/man-cave.atom"/>
+  <title>NicheCanvas</title>
+  <updated>2020-03-26T12:35:35-04:00</updated>
+  <author>
+    <name>NicheCanvas</name>
+  </author>
+  <entry>
+    <id>https://nichecanvas.com/products/4511713853512</id>
+    <published>2020-03-26T12:35:35-04:00</published>
+    <updated>2020-03-26T12:35:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/bass-guitar"/>
+    <title>Bass Guitar</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/d21cb8b6-069f-4f8e-b506-24f47ac3915a_fa0353e4-2a63-43a7-9ba7-dc41d00a14a5.jpg?v=1592053171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/bass-guitar">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celebrate your love of music with a hand-picked piece of fine art. This high-impact wall art uses texture to tell a story and showcase the passion behind your musicmaking. The artist chose painting as the perfect medium to create an immersive view of the composition. ﻿Bass Guitar﻿  is a popular design in our Musical Instruments Collection, and it’s guaranteed to enhance the melody of your life.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>bass</s:tag>
+    <s:tag>brown</s:tag>
+    <s:tag>guitar</s:tag>
+    <s:tag>jazz</s:tag>
+    <s:tag>mancave</s:tag>
+    <s:tag>music</s:tag>
+    <s:tag>musical instrument</s:tag>
+    <s:tag>newarrival</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4511713853512</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>GP4B66FL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4511713853512</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>BOIFUSQ5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4511713853512</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>K1C58JO1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4511713853512</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>WEK5Q8VH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4511713853512</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>B5IQR7H2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4511713853512</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>TJ4Y43Y4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4511713853512</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>DL9WGOP7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4511713853512</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>BJY20KVT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4419904995400</id>
+    <published>2019-12-20T15:22:18-05:00</published>
+    <updated>2019-12-20T15:22:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/keg-of-whiskey"/>
+    <title>Keg of Whiskey</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/d21cb8b6-069f-4f8e-b506-24f47ac3915a_153f145e-c557-4d23-87ec-54cedbc7c4a2.jpg?v=1592054302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 499.00
+            <a href="https://nichecanvas.com/products/keg-of-whiskey">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Uncork excellence! Keg of Whiskey is the perfect addition to any room. Create a distinctive focal point on your walls with a glimpse of your favorite bottles. This piece of top-grade wall art is part of our best-selling Wine Collection. Decorate your space with a sophisticated piece of fine art that celebrates the timeless craftsmanship and bold flavor of wine.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acmehorizontal</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>mancave</s:tag>
+    <s:tag>photography</s:tag>
+    <s:tag>trending</s:tag>
+    <s:tag>whiskey</s:tag>
+    <s:tag>wine</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4419904995400</id>
+      <title>Canvas / Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>5EG7CNNA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4419904995400</id>
+      <title>Canvas / Medium</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>FUHKSPD9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4419904995400</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>2EFGVKNJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4419904995400</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>D1H22KK4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4419904995400</id>
+      <title>Floating Frame / Small</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>IYX9CEG4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4419904995400</id>
+      <title>Floating Frame / Medium</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>VVXWKW36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4419904995400</id>
+      <title>Floating Frame / Large</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>56RJ1MC6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4419904995400</id>
+      <title>Floating Frame / Huge</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>V7F04JHE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/4408292245576</id>
+    <published>2019-12-11T17:58:27-05:00</published>
+    <updated>2019-12-11T17:58:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/gentlemans-cognac"/>
+    <title>Gentleman&apos;s Cognac</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/6809a7b9-ec7e-484c-8659-b75aeda4d1dc_9a05898a-680e-4db9-9aca-f3c954cfcdac.jpg?v=1592857176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/gentlemans-cognac">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Uncork excellence! Gentleman's Cognac is the perfect addition to any room. Create a distinctive focal point on your walls with a glimpse of your favorite bottles. This piece of top-grade wall art is part of our best-selling Wine Collection. Decorate your space with a sophisticated piece of fine art that celebrates the timeless craftsmanship and bold flavor of wine.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme5p</s:tag>
+    <s:tag>Alcohol</s:tag>
+    <s:tag>brown</s:tag>
+    <s:tag>cigar</s:tag>
+    <s:tag>mancave</s:tag>
+    <s:tag>photography</s:tag>
+    <s:tag>tobacco</s:tag>
+    <s:tag>wine</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4408292245576</id>
+      <title>Canvas / Large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>UQP6SIN4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/4408292245576</id>
+      <title>Canvas / Huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>A4BD0QUM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nichecanvas.com/products/383085150237</id>
+    <published>2018-01-14T20:33:25-05:00</published>
+    <updated>2018-01-14T20:33:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nichecanvas.com/products/wswa2"/>
+    <title>Limited Edition - Whiskey Wall Art 2</title>
+    <s:type></s:type>
+    <s:vendor>acmesupplier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2012/8501/products/v_1_bd38b3a8-00bd-4bc2-9e63-9729c731f2c4.jpg?v=1592054390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>acmesupplier<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00 - 249.00
+            <a href="https://nichecanvas.com/products/wswa2">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Uncork excellence! Limited Edition - Whiskey Wall Art 2 is the perfect addition to any room. Create a distinctive focal point on your walls with a glimpse of your favorite bottles. This piece of top-grade wall art is part of our best-selling Wine Collection. Decorate your space with a sophisticated piece of fine art that celebrates the timeless craftsmanship and bold flavor of wine.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acme5p</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>brown</s:tag>
+    <s:tag>cigar</s:tag>
+    <s:tag>dim1</s:tag>
+    <s:tag>lastflip</s:tag>
+    <s:tag>liste25</s:tag>
+    <s:tag>mancave</s:tag>
+    <s:tag>photography</s:tag>
+    <s:tag>rr_track_wine</s:tag>
+    <s:tag>tobacco</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://nichecanvas.com/products/383085150237</id>
+      <title>large</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>PL7IVEQK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nichecanvas.com/products/383085150237</id>
+      <title>huge</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>5SQQA31G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
